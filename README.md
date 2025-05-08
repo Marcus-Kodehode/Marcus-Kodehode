@@ -46,7 +46,7 @@ En handelsreisendes reise i en magisk verden.
   - Dynamiske marked priser per by (Thalmoor, Grumhollow, Sylvarin, NymRasha)  
   - Modulær reisemodul (Safe / Risky / Camp) med events & stamina  
   - Responsive modaler, GameHUD og Inventory med lore & bruksknapper  
-- **Live:** ––––  
+- **Live:** [mystara-paths-of-profit.vercel.app](https://mystara-paths-of-profit.vercel.app/)
 - **Kode:** [github.com/Marcus-Kodehode/mystara](https://github.com/Marcus-Kodehode/mystara)
 
 ---
@@ -59,7 +59,7 @@ En mørk, glødende gjøremålsapp med belønningsmekanikk!
   - Dra & slipp i tre kolonner (Not started · In progress · Completed)  
   - Automatisk lagring + konfetti-fest hvert 5. fullførte oppgave  
   - Neon-design, interaktiv cookie & reward-popups  
-- **Live:** ––––  
+- **Live:** [https://task-force-9000.vercel.app/ ](https://task-force-9000.vercel.app/)
 - **Kode:** [github.com/Marcus-Kodehode/taskforce9000](https://github.com/Marcus-Kodehode/taskforce9000)
 
 ---
@@ -72,7 +72,7 @@ En nettside som plutselig eksploderer i konfetti, musikk & personlige easter egg
   - Sjekker dag & måned mot brukerinput, aktiverer “party state”  
   - Spesialhilsener for utvalgte navn + unike lydspor  
   - Kommentert kode for enkel videreutvikling  
-- **Live:** ––––  
+- **Live:** [https://the-surprise.vercel.app/](https://the-surprise.vercel.app/)
 - **Kode:** [github.com/Marcus-Kodehode/the-surprise](https://github.com/Marcus-Kodehode/the-surprise)
 
 ---
@@ -85,7 +85,7 @@ Bli med på fakta-utforskning og cookie-clicker med leaderboard!
   - Dyre-fakta + bilder i modal, eget cookie-spill med emoji-konfetti  
   - Leaderboard med poengregistrering & 🥇🥈🥉-premiering  
   - Lekent design med pastellgradienter og Fredoka-font  
-- **Live:** ––––  
+- **Live:** [https://animal-dex.vercel.app/](https://animal-dex.vercel.app/)
 - **Kode:** [github.com/Marcus-Kodehode/animal-dex](https://github.com/Marcus-Kodehode/animal-dex)
 
 ---
