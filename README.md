@@ -99,7 +99,7 @@ Jeg er alltid åpen for samarbeid, feedback eller en prat om nye utfordringer.
 ---
 
 > “One bug to find them, one fix to bring them all, and in the darkness bind them.”  
-> – Marcus “Kodehode” Børresen  
+> – Marcus Børresen  
 <!--
 **Marcus-Kodehode/Marcus-Kodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
