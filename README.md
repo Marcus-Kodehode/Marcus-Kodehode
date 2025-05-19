@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubName&layout=compact)
+
 # 👋 Hei, jeg er Marcus
 
 Jeg er en ambisiøs junior frontend-utvikler med bakgrunn fra kundeservice og salg, nå fullt fokusert på React & Vite. Jeg elsker å bygge brukervennlige, responsive og engasjerende web-opplevelser – gjerne med et snev av magi eller futuristisk sci-fi-vibb!
