@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubName&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Kodehode&layout=compact)
 
 # 👋 Hei, jeg er Marcus
 
