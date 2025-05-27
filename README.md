@@ -10,7 +10,6 @@ Jeg er en ambisiøs junior frontend-utvikler med bakgrunn fra kundeservice og sa
 
 - 📍 **Lokasjon:** Sande, Vestfold og Telemark  
 - 📧 **Email:** marcusboerresen@gmail.com  
-- 📱 **Tlf:** +47 458 66 796  
 - 🌐 **GitHub:** [github.com/Marcus-Kodehode](https://github.com/Marcus-Kodehode)  
 - 🚀 **Live-demoer:** [Vercel-prosjekter](https://vercel.com/marcus-boerresens-projects)
 
