@@ -33,7 +33,9 @@ Norsk (morsmål) · Engelsk (meget høyt) · Spansk (nybegynner)
 
 ## 🎯 Hva jeg brenner for
 
-> “Bygge applikasjoner som engasjerer brukeren fra første interaksjon – enten det er et eventyrspill i fantasy-landskap eller en neon-drevet todoliste!”
+> “I deliver production-ready, high-performance web applications with a focus on accessibility, clean code and user-centric design.
+
+My approach blends analytical rigor and creativity. I thrive in collaborative environments, learn new tools rapidly, and maintain structure and clarity throughout every project.”
 
 ---
 
