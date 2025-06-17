@@ -18,7 +18,7 @@ Jeg er en ambisiøs junior frontend-utvikler med bakgrunn fra kundeservice og sa
 ## 🔧 Teknisk stabel
 
 **Språk & rammeverk:**  
-HTML · CSS · JavaScript · React · Vite
+HTML · CSS · JavaScript · React · Vite · Next · Tailwind.css · Vue.js
 
 **Verktøy & plattform:**  
 Git · VS Code · Vercel · localStorage
