@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Kodehode&layout=compact)
-
 # 👋 Hei, jeg er Marcus
 
 Jeg er en ambisiøs junior frontend-utvikler med bakgrunn fra kundeservice og salg, nå fullt fokusert på Next, Vue, React og Vite.  
@@ -78,6 +76,16 @@ Norsk (morsmål) · Engelsk (meget høyt) · Spansk (nybegynner)
 
 ---
 
+## 📊 GitHub-statistikk og aktivitet
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Kodehode&layout=compact)
+![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Kodehode&show_icons=true&theme=tokyonight)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marcus-Kodehode&theme=tokyonight)](https://git.io/streak-stats)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marcus-Kodehode&theme=tokyo-night)  
+![Profile views](https://komarev.com/ghpvc/?username=Marcus-Kodehode&color=blueviolet)
+
+---
+
 ## 📞 Kontakt meg
 
 Jeg er alltid åpen for samarbeid, feedback eller en prat om nye utfordringer.  
@@ -88,3 +96,4 @@ Jeg er alltid åpen for samarbeid, feedback eller en prat om nye utfordringer.
 
 > “One bug to find them, one fix to bring them all, and in the darkness bind them.”  
 > – Marcus Børresen
+
