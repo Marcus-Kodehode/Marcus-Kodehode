@@ -2,7 +2,7 @@
 
 # 👋 Hei, jeg er Marcus
 
-Jeg er en ambisiøs junior frontend-utvikler med bakgrunn fra kundeservice og salg, nå fullt fokusert på React & Vite.  
+Jeg er en ambisiøs junior frontend-utvikler med bakgrunn fra kundeservice og salg, nå fullt fokusert på Next, Vue, React og Vite.  
 Jeg elsker å bygge brukervennlige, responsive og engasjerende web-opplevelser – gjerne med et snev av magi eller futuristisk sci-fi-vibb!
 
 ---
