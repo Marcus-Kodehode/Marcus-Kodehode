@@ -2,7 +2,8 @@
 
 # 👋 Hei, jeg er Marcus
 
-Jeg er en ambisiøs junior frontend-utvikler med bakgrunn fra kundeservice og salg, nå fullt fokusert på React & Vite. Jeg elsker å bygge brukervennlige, responsive og engasjerende web-opplevelser – gjerne med et snev av magi eller futuristisk sci-fi-vibb!
+Jeg er en ambisiøs junior frontend-utvikler med bakgrunn fra kundeservice og salg, nå fullt fokusert på React & Vite.  
+Jeg elsker å bygge brukervennlige, responsive og engasjerende web-opplevelser – gjerne med et snev av magi eller futuristisk sci-fi-vibb!
 
 ---
 
@@ -33,76 +34,60 @@ Norsk (morsmål) · Engelsk (meget høyt) · Spansk (nybegynner)
 
 ## 🎯 Hva jeg brenner for
 
-> “I deliver production-ready, high-performance web applications with a focus on accessibility, clean code and user-centric design.
+> “I deliver production-ready, high-performance web applications with a focus on accessibility, clean code and user-centric design.  
 > My approach blends analytical rigor and creativity. I thrive in collaborative environments, learn new tools rapidly, and maintain structure and clarity throughout every project.”
 
 ---
 
 ## ✨ Utvalgte prosjekter
 
-### 1. Mystara – ⚔️ Eventyrspill i React  
-![Mystara-skjermdump](https://raw.githubusercontent.com/Marcus-Kodehode/mystara/main/screenshot.png)  
-En handelsreisendes reise i en magisk verden.  
-- **Teknologi:** React, React Router, CSS Modules, localStorage, Custom Events  
-- **Highlights:**  
-  - Dynamiske marked priser per by (Thalmoor, Grumhollow, Sylvarin, NymRasha)  
-  - Modulær reisemodul (Safe / Risky / Camp) med events & stamina  
-  - Responsive modaler, GameHUD og Inventory med lore & bruksknapper  
-- **Live:** [mystara-paths-of-profit.vercel.app](https://mystara-paths-of-profit.vercel.app/)
-- **Kode:** [github.com/Marcus-Kodehode/mystara](https://github.com/Marcus-Kodehode/mystara)
-
----
+### 1. Quizle – 🦊 Barnevennlig quiz-app  
+- Interaktiv quiz-app for barn og unge  
+- **Teknologi:** Vue 3, Tailwind, Vite, Vue Router  
+- **Live:** [quizle-app.vercel.app](https://quizle-app.vercel.app/)  
+- **Kode:** [github.com/Marcus-Kodehode/quizle](https://github.com/Marcus-Kodehode/quizle)
 
 ### 2. TaskForce 9000 – ⚡ Sci-fi to-do-app  
-![TaskForce9000-skjermdump](https://raw.githubusercontent.com/Marcus-Kodehode/taskforce9000/main/screenshot.png)  
-En mørk, glødende gjøremålsapp med belønningsmekanikk!  
-- **Teknologi:** React, Vite, @hello-pangea/dnd, canvas-confetti, localStorage  
-- **Highlights:**  
-  - Dra & slipp i tre kolonner (Not started · In progress · Completed)  
-  - Automatisk lagring + konfetti-fest hvert 5. fullførte oppgave  
-  - Neon-design, interaktiv cookie & reward-popups  
-- **Live:** [https://task-force-9000.vercel.app/ ](https://task-force-9000.vercel.app/)
+- Dra og slipp, mørk glow-stil og belønning  
+- **Teknologi:** React, Vite, Tailwind, canvas-confetti  
+- **Live:** [task-force-9000.vercel.app](https://task-force-9000.vercel.app/)  
 - **Kode:** [github.com/Marcus-Kodehode/taskforce9000](https://github.com/Marcus-Kodehode/taskforce9000)
 
----
+### 3. CV-nettside – 👨‍💼 Min digitale CV  
+- Next.js-side som presenterer meg og prosjektene mine  
+- **Teknologi:** Next.js, Tailwind CSS  
+- **Live:** [min-cv.vercel.app](https://min-cv.vercel.app/)  
+- **Kode:** [github.com/Marcus-Kodehode/my-cv-site](https://github.com/Marcus-Kodehode/my-cv-site)
 
-### 3. The Surprise – 🎊 Interaktiv overraskelse  
-![TheSurprise-skjermdump](https://raw.githubusercontent.com/Marcus-Kodehode/the-surprise/main/screenshot.png)  
-En nettside som plutselig eksploderer i konfetti, musikk & personlige easter eggs!  
-- **Teknologi:** React, Vite, canvas-confetti, HTML Audio, useRef/useEffect  
-- **Highlights:**  
-  - Sjekker dag & måned mot brukerinput, aktiverer “party state”  
-  - Spesialhilsener for utvalgte navn + unike lydspor  
-  - Kommentert kode for enkel videreutvikling  
-- **Live:** [https://the-surprise.vercel.app/](https://the-surprise.vercel.app/)
-- **Kode:** [github.com/Marcus-Kodehode/the-surprise](https://github.com/Marcus-Kodehode/the-surprise)
+### 4. Feriehjelper – 🏖️ Planlegg ferien din  
+- Organiser reisemål, aktiviteter og budsjett  
+- **Teknologi:** Next.js, Tailwind CSS, Clerk (planlagt)  
+- **Live:** [feriehjelper.vercel.app](https://feriehjelper.vercel.app/)  
+- **Kode:** [github.com/Marcus-Kodehode/feriehjelper](https://github.com/Marcus-Kodehode/feriehjelper)
 
----
+### 5. Gutenbergdex – 📚 Visuell bokbrowser  
+- Utforsk Project Gutenberg med en frontend-løsning  
+- **Teknologi:** React, Vite, CSS, Fetch API  
+- **Kode:** [github.com/Marcus-Kodehode/gutenbergdex](https://github.com/Marcus-Kodehode/gutenbergdex)
 
-### 4. Animal-dex – 🐾 Interaktiv dyre-lek  
-![AnimalDex-skjermdump](https://raw.githubusercontent.com/Marcus-Kodehode/animal-dex/main/screenshot.png)  
-Bli med på fakta-utforskning og cookie-clicker med leaderboard!  
-- **Teknologi:** React, Vite, useState/useEffect, API (catfact.ninja), localStorage  
-- **Highlights:**  
-  - Dyre-fakta + bilder i modal, eget cookie-spill med emoji-konfetti  
-  - Leaderboard med poengregistrering & 🥇🥈🥉-premiering  
-  - Lekent design med pastellgradienter og Fredoka-font  
-- **Live:** [https://animal-dex.vercel.app/](https://animal-dex.vercel.app/)
-- **Kode:** [github.com/Marcus-Kodehode/animal-dex](https://github.com/Marcus-Kodehode/animal-dex)
+### 6. Drammen Dykkerklubb – 🌊 Klubbside  
+- Offisiell frontend-side for lokal dykkeklubb  
+- **Teknologi:** React, Vite, JSX  
+- **Live:** [dykkerklubb.vercel.app](https://dykkerklubb.vercel.app/)  
+- **Kode:** [github.com/Marcus-Kodehode/drammendykker-klubb](https://github.com/Marcus-Kodehode/drammendykker-klubb)
 
 ---
 
 ## 📞 Kontakt meg
 
 Jeg er alltid åpen for samarbeid, feedback eller en prat om nye utfordringer.  
-👉 **Send meg en e-post:** marcusboerresen@gmail.com  
-👉 **LinkedIn:** [linkedin.com/in/marcus-borresen](https://www.linkedin.com/)  
+📧 **E-post:** marcusboerresen@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/marcus-borresen](https://www.linkedin.com/)
 
 ---
 
 > “One bug to find them, one fix to bring them all, and in the darkness bind them.”  
-> – Marcus Børresen  
-<!--
+> – Marcus Børresen
 **Marcus-Kodehode/Marcus-Kodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
