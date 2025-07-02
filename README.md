@@ -80,8 +80,7 @@ Norsk (morsmål) · Engelsk (meget høyt) · Spansk (nybegynner)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Kodehode&layout=compact)
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Kodehode&show_icons=true&theme=tokyonight)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marcus-Kodehode&theme=tokyonight)](https://git.io/streak-stats)  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marcus-Kodehode&theme=tokyo-night)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcus-Kodehode&theme=tokyo-night) 
 ![Profile views](https://komarev.com/ghpvc/?username=Marcus-Kodehode&color=blueviolet)
 
 ---
