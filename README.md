@@ -63,10 +63,11 @@ Norsk (morsmål) · Engelsk (meget høyt) · Spansk (nybegynner)
 - **Live:** [feriehjelper.vercel.app](https://feriehjelper.vercel.app/)  
 - **Kode:** [github.com/Marcus-Kodehode/feriehjelper](https://github.com/Marcus-Kodehode/feriehjelper)
 
-### 5. Gutenbergdex – 📚 Visuell bokbrowser  
+### 5. Pradex – 📚 Visuell bokbrowser  
 - Utforsk Project Gutenberg med en frontend-løsning  
-- **Teknologi:** React, Vite, CSS, Fetch API  
-- **Kode:** [github.com/Marcus-Kodehode/gutenbergdex](https://github.com/Marcus-Kodehode/gutenbergdex)
+- **Teknologi:** React, Vite, CSS, Fetch API
+- **Live:** [praedex.vercel.app](praedex.vercel.app)    
+- **Kode:** [github.com/Marcus-Kodehode/Pradex](https://github.com/Marcus-Kodehode/Pradex)
 
 ### 6. Drammen Dykkerklubb – 🌊 Klubbside  
 - Offisiell frontend-side for lokal dykkeklubb  
