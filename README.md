@@ -65,8 +65,8 @@ Norsk (morsmål) · Engelsk (meget høyt) · Spansk (nybegynner)
 
 ### 5. Pradex – 📚 Visuell bokbrowser  
 - Utforsk Project Gutenberg med en frontend-løsning  
-- **Teknologi:** React, Vite, CSS, Fetch API
-- **Live:** [praedex.vercel.app](praedex.vercel.app)    
+- **Teknologi:** React, Vite, CSS, Fetch API  
+- **Live:** [praedex.vercel.app](https://praedex.vercel.app)  
 - **Kode:** [github.com/Marcus-Kodehode/Pradex](https://github.com/Marcus-Kodehode/Pradex)
 
 ### 6. Drammen Dykkerklubb – 🌊 Klubbside  
