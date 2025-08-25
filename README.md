@@ -17,7 +17,7 @@ Jeg elsker å bygge brukervennlige, responsive og engasjerende web-opplevelser �
 ## 🔧 Teknisk stabel
 
 **Språk & rammeverk:**  
-HTML · CSS · JavaScript · React · Vite · Next · Tailwind.css · Vue.js
+HTML · CSS · JavaScript · React · Vite · Next · Tailwind.css · Vue.js · TypeScript
 
 **Verktøy & plattform:**  
 Git · VS Code · Vercel · localStorage
