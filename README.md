@@ -57,19 +57,13 @@ Norsk (morsmål) · Engelsk (meget høyt) · Spansk (nybegynner)
 - **Live:** [min-cv.vercel.app](https://min-cv.vercel.app/)  
 - **Kode:** [github.com/Marcus-Kodehode/my-cv-site](https://github.com/Marcus-Kodehode/my-cv-site)
 
-### 4. Feriehjelper – 🏖️ Planlegg ferien din  
-- Organiser reisemål, aktiviteter og budsjett  
-- **Teknologi:** Next.js, Tailwind CSS, Clerk (planlagt)  
-- **Live:** [feriehjelper.vercel.app](https://feriehjelper.vercel.app/)  
-- **Kode:** [github.com/Marcus-Kodehode/feriehjelper](https://github.com/Marcus-Kodehode/feriehjelper)
-
-### 5. Pradex – 📚 Visuell bokbrowser  
+### 4. Pradex – 📚 Visuell bokbrowser  
 - Utforsk Project Gutenberg med en frontend-løsning  
 - **Teknologi:** React, Vite, CSS, Fetch API  
 - **Live:** [praedex.vercel.app](https://praedex.vercel.app)  
 - **Kode:** [github.com/Marcus-Kodehode/Pradex](https://github.com/Marcus-Kodehode/Pradex)
 
-### 6. Drammen Dykkerklubb – 🌊 Klubbside  
+### 5. Drammen Dykkerklubb – 🌊 Klubbside  
 - Offisiell frontend-side for lokal dykkeklubb  
 - **Teknologi:** React, Vite, JSX  
 - **Live:** [dykkerklubb.vercel.app](https://dykkerklubb.vercel.app/)  
