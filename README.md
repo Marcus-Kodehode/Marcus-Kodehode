@@ -5,7 +5,7 @@
 </p>
 
   <!-- Animert header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React;Next.js;Vue.js;Angular;TypeScript;Tailwind+CSS;CSS3;Styled+Components;Git;Vite;Vercel;VS+Code;Clerk;MongoDB%2FAtlas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=750&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React;Next.js;Vue.js;Angular;TypeScript;Tailwind+CSS;CSS3;Styled+Components;Git;Vite;Vercel;VS+Code;Clerk;MongoDB%2FAtlas" alt="Typing SVG" />
 
   <!-- Social badges -->
   <p align="center">
@@ -107,11 +107,11 @@ const marcus = {
           </a>
         </p>
         <p><strong>TypeScript • React • Modern UI</strong></p>
-        <p>Elegant task management med drag-and-drop funksjonalitet</p>
+        <p>Elegant task management med kalkulator</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🏆 Trevl - Travel Planning</h3>
+      <h3 align="center">🏆 Trevl - Photo Diary</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/Trevl">
           <img src="/main/assets/trevl-screenshot.png" alt="Trevl Screenshoot" width="200"/>
@@ -126,16 +126,15 @@ const marcus = {
           </a>
         </p>
         <p><strong>TypeScript • Next.js • API Integration</strong></p>
-        <p>Smart reiseplanlegger med interaktive kart</p>
+        <p>Morsomt samlested for ferieminner</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🦖 Feriehjelper - Vacation Helper</h3>
+      <h3 align="center">✈️ Feriehjelper - Vacation Helper</h3>
       <div align="center">
         <img src="/main/assets/feriehjelper-screenshot.png" alt="Feriehjelper Screenshoot" width="200"/>
-          <img src="./assets/feriehjelper-screenshot.png" width="100%" alt="Feriehjelper"/>
         </a>
         <br/><br/>
         <p>
@@ -147,7 +146,7 @@ const marcus = {
           </a>
         </p>
         <p><strong>JavaScript • Interactive • Fun</strong></p>
-        <p>Interaktiv ferieplanlegger med dinosaur-tema</p>
+        <p>Interaktiv ferieplanlegger</p>
       </div>
     </td>
     <td width="50%">
