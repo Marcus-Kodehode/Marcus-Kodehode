@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Din logo her -->
 <p align="center">
-  <img src="https://github.com/Marcus-Kodehode/Marcus-Kodehode/blob/main/assets/logo.png?raw=1&v=2" alt="Marcus Logo" width="200"/>
+  <img src="/main/assets/logo.png" alt="Marcus Logo" width="200"/>
 </p>
 
   <!-- Animert header -->
