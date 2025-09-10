@@ -5,7 +5,7 @@
 </p>
 
   <!-- Animert header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React;Next.js;Vue.js;Angular;TypeScript;Tailwind+CSS;CSS3;Styled+Components;Git;Vite;Vercel;VS+Code;Clerk;MongoDB%2FAtlas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React;Next.js;Vue.js;Angular;TypeScript;Tailwind+CSS;CSS3;Styled+Components;Git;Vite;Vercel;VS+Code;Clerk;MongoDB%2FAtlas" alt="Typing SVG" />
 
   <!-- Social badges -->
   <p align="center">
