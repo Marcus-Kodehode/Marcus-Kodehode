@@ -5,7 +5,7 @@
 </p>
 
   <!-- Animert header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Vue+%7C+Angular;TypeScript+%7C+Tailwind+CSS;Clerk+%7C+MongoDB+%7C+Atlas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React;Next.js;Vue.js;Angular;TypeScript;Tailwind+CSS;CSS3;Styled+Components;Git;Vite;Vercel;VS+Code;Clerk;MongoDB%2FAtlas" alt="Typing SVG" />
 
   <!-- Social badges -->
   <p align="center">
@@ -95,7 +95,7 @@ const marcus = {
       <h3 align="center">🎮 ToDo - Task Management App</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/ToDo">
-          <img src="./assets/todo-screenshot.png" width="100%" alt="ToDo App"/>
+          <img src="/main/assets/todo-screenshot.png" alt="ToDo Screenshoot" width="200"/>
         </a>
         <br/><br/>
         <p>
@@ -114,7 +114,7 @@ const marcus = {
       <h3 align="center">🏆 Trevl - Travel Planning</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/Trevl">
-          <img src="./assets/trevl-screenshot.png" width="100%" alt="Trevl App"/>
+          <img src="/main/assets/trevl-screenshot.png" alt="Trevl Screenshoot" width="200"/>
         </a>
         <br/><br/>
         <p>
@@ -134,7 +134,7 @@ const marcus = {
     <td width="50%">
       <h3 align="center">🦖 Feriehjelper - Vacation Helper</h3>
       <div align="center">
-        <a href="https://github.com/Marcus-Kodehode/feriehjelper">
+        <img src="/main/assets/feriehjelper-screenshot.png" alt="Feriehjelper Screenshoot" width="200"/>
           <img src="./assets/feriehjelper-screenshot.png" width="100%" alt="Feriehjelper"/>
         </a>
         <br/><br/>
@@ -154,7 +154,7 @@ const marcus = {
       <h3 align="center">📖 My Awesome CV</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/my-awesome-cv">
-          <img src="./assets/cv-screenshot.png" width="100%" alt="CV Site"/>
+          <img src="/main/assets/cv-screenshot.png" alt="CV Screenshoot" width="200"/>
         </a>
         <br/><br/>
         <p>
@@ -175,7 +175,7 @@ const marcus = {
       <h3 align="center">🌊 Drammen Dykkerklubb</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/drammendykker-klubb">
-          <img src="./assets/dykkerklubb-screenshot.png" width="100%" alt="Dykkerklubb"/>
+          <img src="/main/assets/dykkerklubb-screenshot.png" alt="Dykkerklubb Screenshoot" width="200"/>
         </a>
         <br/><br/>
         <p>
@@ -193,7 +193,7 @@ const marcus = {
     <td width="50%">
       <h3 align="center">⚡ More Projects Coming Soon!</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/Marcus-Kodehode/Marcus-Kodehode/main/assets/coming-soon.gif" width="100%" alt="Coming Soon"/>
+        <img src="/main/assets/coming-soon.gif" alt="Coming Soon Gif" width="200"/>
         <br/><br/>
         <p>
           <a href="https://github.com/Marcus-Kodehode?tab=repositories">
@@ -209,7 +209,6 @@ const marcus = {
 <br/>
 
 <!-- Gradient divider -->
-<img src="./assets/coming-soon.gif" width="100%" alt="Coming Soon"/>
 
 <br/>
 
@@ -295,7 +294,7 @@ const marcus = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
   
   <!-- Din logo nederst -->
-  <img src="https://raw.githubusercontent.com/Marcus-Kodehode/Marcus-Kodehode/main/assets/logo.png" alt="Marcus Logo" width="100"/>
+  <img src="/main/assets/logo.png" alt="Personlig Logo" width="200"/>
   
   <br/><br/>
   
