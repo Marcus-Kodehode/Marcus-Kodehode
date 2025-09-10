@@ -1,10 +1,8 @@
 <div align="center">
   <!-- Din logo her -->
 <p align="center">
-  <img src="https://github.com/Marcus-Kodehode/Marcus-Kodehode/blob/main/assets/logo.png?raw=1" width="200" alt="Marcus Logo" />
+  <img src="https://github.com/Marcus-Kodehode/Marcus-Kodehode/blob/main/assets/logo.png?raw=1&v=2" alt="Marcus Logo" width="200"/>
 </p>
-
-![ToDo App](https://github.com/Marcus-Kodehode/Marcus-Kodehode/blob/main/assets/todo-screenshot.png?raw=1)
 
   <!-- Animert header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Vue+%7C+Angular;TypeScript+%7C+Tailwind+CSS;Clerk+%7C+MongoDB+%7C+Atlas" alt="Typing SVG" />
