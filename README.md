@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Din logo her -->
-  <img src="https://raw.githubusercontent.com/Marcus-Kodehode/Marcus-Kodehode/main/assets/logo.png" alt="Marcus Logo" width="200"/>
+  <img src="./assets/logo.png" alt="Marcus Logo" width="200"/>
   
   <!-- Animert header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Hei%2C+jeg+er+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Vue+%7C+TypeScript" alt="Typing SVG" />
-  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Vue+%7C+Angular;TypeScript+%7C+Tailwind+CSS;Clerk+%7C+MongoDB+%7C+Atlas" alt="Typing SVG" />
+
   <!-- Social badges -->
   <p align="center">
     <a href="mailto:marcusboerresen@gmail.com">
@@ -39,11 +39,11 @@ const marcus = {
   rolle: "Frontend Developer",
   fokus: ["User Experience", "Clean Code", "Performance"],
   teknologier: {
-    frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
+    frontend: ["React", "Next.js", "Vue.js", "TypeScript", "Angular"],
     styling: ["Tailwind CSS", "CSS3", "Styled Components"],
-    verktøy: ["Git", "Vite", "Vercel", "VS Code"]
+    verktøy: ["Git", "Vite", "Vercel", "VS Code", "Clerk", "MongoDB/Atlas"],
   },
-  mål: "Bygge magiske webopplevelser som får folk til å si 'WOW!' ✨"
+  mål: "Bygge magiske webopplevelser som får folk til å si 'WOW!' ✨",
 };
 ```
 
@@ -59,6 +59,7 @@ const marcus = {
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
   ### Styling & Design
@@ -71,7 +72,10 @@ const marcus = {
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
+  ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
 </div>
 
 <br/>
@@ -89,7 +93,7 @@ const marcus = {
       <h3 align="center">🎮 ToDo - Task Management App</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/ToDo">
-          <img src="https://raw.githubusercontent.com/Marcus-Kodehode/Marcus-Kodehode/main/assets/todo-screenshot.png" width="100%" alt="ToDo App"/>
+          <img src="./assets/todo-screenshot.png" width="100%" alt="ToDo App"/>
         </a>
         <br/><br/>
         <p>
@@ -108,7 +112,7 @@ const marcus = {
       <h3 align="center">🏆 Trevl - Travel Planning</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/Trevl">
-          <img src="https://raw.githubusercontent.com/Marcus-Kodehode/Marcus-Kodehode/main/assets/trevl-screenshot.png" width="100%" alt="Trevl App"/>
+          <img src="./assets/trevl-screenshot.png" width="100%" alt="Trevl App"/>
         </a>
         <br/><br/>
         <p>
@@ -129,7 +133,7 @@ const marcus = {
       <h3 align="center">🦖 Feriehjelper - Vacation Helper</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/feriehjelper">
-          <img src="https://raw.githubusercontent.com/Marcus-Kodehode/Marcus-Kodehode/main/assets/feriehjelper-screenshot.png" width="100%" alt="Feriehjelper"/>
+          <img src="./assets/feriehjelper-screenshot.png" width="100%" alt="Feriehjelper"/>
         </a>
         <br/><br/>
         <p>
@@ -148,7 +152,7 @@ const marcus = {
       <h3 align="center">📖 My Awesome CV</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/my-awesome-cv">
-          <img src="https://raw.githubusercontent.com/Marcus-Kodehode/Marcus-Kodehode/main/assets/cv-screenshot.png" width="100%" alt="CV Site"/>
+          <img src="./assets/cv-screenshot.png" width="100%" alt="CV Site"/>
         </a>
         <br/><br/>
         <p>
@@ -169,7 +173,7 @@ const marcus = {
       <h3 align="center">🌊 Drammen Dykkerklubb</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/drammendykker-klubb">
-          <img src="https://raw.githubusercontent.com/Marcus-Kodehode/Marcus-Kodehode/main/assets/dykkerklubb-screenshot.png" width="100%" alt="Dykkerklubb"/>
+          <img src="./assets/dykkerklubb-screenshot.png" width="100%" alt="Dykkerklubb"/>
         </a>
         <br/><br/>
         <p>
@@ -203,7 +207,7 @@ const marcus = {
 <br/>
 
 <!-- Gradient divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./assets/coming-soon.gif" width="100%" alt="Coming Soon"/>
 
 <br/>
 
