@@ -102,7 +102,7 @@ const marcus = {
           <a href="https://github.com/Marcus-Kodehode/ToDo">
             <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://todo-app.vercel.app/">
+          <a href="https://to-do-blond-two.vercel.app/">
             <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
@@ -121,7 +121,7 @@ const marcus = {
           <a href="https://github.com/Marcus-Kodehode/Trevl">
             <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://trevl-app.vercel.app/">
+          <a href="https://trevl-eta.vercel.app/">
             <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
@@ -145,7 +145,7 @@ const marcus = {
             <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
-        <p><strong>JavaScript • Interactive • Fun</strong></p>
+        <p><strong>JavaScript • Clerk • MongoDB/Atlas</strong></p>
         <p>Interaktiv ferieplanlegger</p>
       </div>
     </td>
@@ -181,12 +181,12 @@ const marcus = {
           <a href="https://github.com/Marcus-Kodehode/drammendykker-klubb">
             <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://dykkerklubb.vercel.app/">
+          <a href="https://drammendykker-klubb.vercel.app/">
             <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
         <p><strong>React • Vite • Club Website</strong></p>
-        <p>Offisiell nettside for lokal dykkerklubb</p>
+        <p>Nettside for lokal dykkerklubb</p>
       </div>
     </td>
     <td width="50%">
