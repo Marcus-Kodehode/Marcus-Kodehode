@@ -37,7 +37,7 @@
 
 ```javascript
 const marcus = {
-  lokasjon: "Sande, Vestfold og Telemark 📍",
+  lokasjon: "Sande, Vestfold 📍",
   rolle: "Frontend Developer",
   fokus: ["User Experience", "Clean Code", "Performance"],
   teknologier: {
