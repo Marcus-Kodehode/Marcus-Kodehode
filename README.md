@@ -91,8 +91,6 @@ const marcus = {
 
 <div align="center">
 
-### 💼 Core Projects
-
 <table>
   <tr>
     <td width="50%">
@@ -174,11 +172,6 @@ const marcus = {
       </div>
     </td>
   </tr>
-</table>
-
-### 🎯 Web Applications
-
-<table>
   <tr>
     <td width="50%">
       <h3 align="center">🌊 Drammen Dykkerklubb</h3>
