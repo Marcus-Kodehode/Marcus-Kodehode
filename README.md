@@ -190,6 +190,57 @@ const marcus = {
       </div>
     </td>
     <td width="50%">
+      <h3 align="center">🎨 ColorCraft</h3>
+      <div align="center">
+        <img src="/main/assets/color-craft-screenshot.png" alt="ColorCraft" width="200"/>
+        <br/><br/>
+        <p>
+          <a href="https://github.com/Marcus-Kodehode/Theme-Advisor">
+            <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://theme-advisor.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Next • Typescript • Tailwind.css</strong></p>
+        <p><strong>Professional color palette testing and visualization tool – built with Next.js and Tailwind CSS</strong></p>
+      </div>
+    </td>
+      <td width="50%">
+      <h3 align="center">🎰 CardDuel</h3>
+      <div align="center">
+        <img src="/main/assets/card-dual-screenshot.png" alt="CardDuel" width="200"/>
+        <br/><br/>
+        <p>
+          <a href="https://github.com/Marcus-Kodehode/Card-Duel">
+            <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://card-duel.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Next • Typescript • Tailwind.css</strong></p>
+        <p><strong>A sleek and modern card game built with Next.js and Tailwind CSS – Test your luck in this high-card duel!</strong></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎬 BusterBlock</h3>
+      <div align="center">
+        <img src="/main/assets/buster-block-screenshot.png" alt="CardDuel" width="200"/>
+        <br/><br/>
+        <p>
+          <a href="https://github.com/Marcus-Kodehode/Buster-Block">
+            <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://buster-block.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Next • Typescript • Tailwind.css • MongoDB • Clerk</strong></p>
+        <p><strong>A full-stack movie review platform where film enthusiasts share their passion – Rate, review, and discover cinema!</strong></p>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center">⚡ More Projects Coming Soon!</h3>
       <div align="center">
         <img src="/main/assets/coming-soon.gif" alt="Coming Soon Gif" width="200"/>
