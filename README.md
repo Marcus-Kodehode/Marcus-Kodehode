@@ -89,13 +89,17 @@ const marcus = {
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+### 💼 Core Projects
+
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🎮 ToDo - Task Management App</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/ToDo">
-          <img src="/main/assets/todo-screenshot.png" alt="ToDo Screenshoot" width="200"/>
+          <img src="/main/assets/todo-screenshot.png" alt="ToDo Screenshot" width="200"/>
         </a>
         <br/><br/>
         <p>
@@ -114,7 +118,7 @@ const marcus = {
       <h3 align="center">🏆 Trevl - Photo Diary</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/Trevl">
-          <img src="/main/assets/trevl-screenshot.png" alt="Trevl Screenshoot" width="200"/>
+          <img src="/main/assets/trevl-screenshot.png" alt="Trevl Screenshot" width="200"/>
         </a>
         <br/><br/>
         <p>
@@ -134,7 +138,8 @@ const marcus = {
     <td width="50%">
       <h3 align="center">✈️ Feriehjelper - Vacation Helper</h3>
       <div align="center">
-        <img src="/main/assets/feriehjelper-screenshot.png" alt="Feriehjelper Screenshoot" width="200"/>
+        <a href="https://github.com/Marcus-Kodehode/feriehjelper">
+          <img src="/main/assets/feriehjelper-screenshot.png" alt="Feriehjelper Screenshot" width="200"/>
         </a>
         <br/><br/>
         <p>
@@ -153,7 +158,7 @@ const marcus = {
       <h3 align="center">📖 My Awesome CV</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/my-awesome-cv">
-          <img src="/main/assets/cv-screenshot.png" alt="CV Screenshoot" width="200"/>
+          <img src="/main/assets/cv-screenshot.png" alt="CV Screenshot" width="200"/>
         </a>
         <br/><br/>
         <p>
@@ -169,12 +174,17 @@ const marcus = {
       </div>
     </td>
   </tr>
+</table>
+
+### 🎯 Web Applications
+
+<table>
   <tr>
     <td width="50%">
       <h3 align="center">🌊 Drammen Dykkerklubb</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/drammendykker-klubb">
-          <img src="/main/assets/dykkerklubb-screenshot.png" alt="Dykkerklubb Screenshoot" width="200"/>
+          <img src="/main/assets/dykkerklubb-screenshot.png" alt="Dykkerklubb Screenshot" width="200"/>
         </a>
         <br/><br/>
         <p>
@@ -192,7 +202,9 @@ const marcus = {
     <td width="50%">
       <h3 align="center">🎨 ColorCraft</h3>
       <div align="center">
-        <img src="/main/assets/color-craft-screenshot.png" alt="ColorCraft" width="200"/>
+        <a href="https://github.com/Marcus-Kodehode/Theme-Advisor">
+          <img src="/main/assets/color-craft-screenshot.png" alt="ColorCraft Screenshot" width="200"/>
+        </a>
         <br/><br/>
         <p>
           <a href="https://github.com/Marcus-Kodehode/Theme-Advisor">
@@ -202,14 +214,18 @@ const marcus = {
             <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
-        <p><strong>Next • Typescript • Tailwind.css</strong></p>
-        <p><strong>Professional color palette testing and visualization tool – built with Next.js and Tailwind CSS</strong></p>
+        <p><strong>Next.js • TypeScript • Tailwind CSS</strong></p>
+        <p>Professional color palette testing and visualization tool</p>
       </div>
     </td>
-      <td width="50%">
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">🎰 CardDuel</h3>
       <div align="center">
-        <img src="/main/assets/card-dual-screenshot.png" alt="CardDuel" width="200"/>
+        <a href="https://github.com/Marcus-Kodehode/Card-Duel">
+          <img src="/main/assets/card-dual-screenshot.png" alt="CardDuel Screenshot" width="200"/>
+        </a>
         <br/><br/>
         <p>
           <a href="https://github.com/Marcus-Kodehode/Card-Duel">
@@ -219,14 +235,16 @@ const marcus = {
             <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
-        <p><strong>Next • Typescript • Tailwind.css</strong></p>
-        <p><strong>A sleek and modern card game built with Next.js and Tailwind CSS – Test your luck in this high-card duel!</strong></p>
+        <p><strong>Next.js • TypeScript • Tailwind CSS</strong></p>
+        <p>A sleek and modern card game - Test your luck in this high-card duel!</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">🎬 BusterBlock</h3>
       <div align="center">
-        <img src="/main/assets/buster-block-screenshot.png" alt="CardDuel" width="200"/>
+        <a href="https://github.com/Marcus-Kodehode/Buster-Block">
+          <img src="/main/assets/buster-block-screenshot.png" alt="BusterBlock Screenshot" width="200"/>
+        </a>
         <br/><br/>
         <p>
           <a href="https://github.com/Marcus-Kodehode/Buster-Block">
@@ -236,25 +254,27 @@ const marcus = {
             <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
-        <p><strong>Next • Typescript • Tailwind.css • MongoDB • Clerk</strong></p>
-        <p><strong>A full-stack movie review platform where film enthusiasts share their passion – Rate, review, and discover cinema!</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ More Projects Coming Soon!</h3>
-      <div align="center">
-        <img src="/main/assets/coming-soon.gif" alt="Coming Soon Gif" width="200"/>
-        <br/><br/>
-        <p>
-          <a href="https://github.com/Marcus-Kodehode?tab=repositories">
-            <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Always Building • Always Learning</strong></p>
+        <p><strong>Next.js • TypeScript • MongoDB • Clerk</strong></p>
+        <p>Full-stack movie review platform - Rate, review, and discover cinema!</p>
       </div>
     </td>
   </tr>
 </table>
+
+### 🚀 What's Next?
+
+<div align="center" style="margin: 40px 0;">
+  <img src="/main/assets/coming-soon.gif" alt="Coming Soon" width="300"/>
+  <br/><br/>
+  <p>
+    <a href="https://github.com/Marcus-Kodehode?tab=repositories">
+      <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  <p><strong>Always Building • Always Learning • Always Innovating</strong></p>
+</div>
+
+</div>
 
 <br/>
 
