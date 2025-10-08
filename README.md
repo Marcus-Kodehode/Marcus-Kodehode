@@ -75,7 +75,6 @@ const myJourney = {
 - 📦 **NPM-pakker** - Har laget mine første CLI tools og scaffolders
 - 🎯 **Problem Solving** - Elsker å finne løsninger på utfordringer
 
-      </td>
 
     <td width="40%" align="center">
 
