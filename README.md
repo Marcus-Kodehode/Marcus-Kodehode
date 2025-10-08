@@ -36,41 +36,84 @@
 
 ## 🎯 Om Meg
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Meet%20Marcus&fontSize=30&fontColor=fff&animation=fadeIn" alt="About Header" />
+</div>
 
-```javascript
-const marcus = {
-  lokasjon: "Sande, Vestfold 📍",
-  rolle: "Jr. Frontend Developer & Jr. Full-Stack Developer",
-  fokus: ["User Experience", "Clean Code", "Performance", "Developer Tools"],
-  teknologier: {
-    frontend: ["React", "Next.js", "Vue.js", "TypeScript", "Angular"],
-    styling: ["Tailwind CSS", "CSS3", "Styled Components"],
-    backend: ["Node.js", "Express", "MongoDB"],
-    verktøy: [
-      "Git",
-      "Vite",
-      "Vercel",
-      "VS Code",
-      "Clerk",
-      "MongoDB/Atlas",
-      "Postman",
-    ],
-    validation: ["Zod", "TypeScript", "Schema Validation"],
-    npm: [
-      "CLI Tools",
-      "Project Scaffolders",
-      "File Organizers",
-      "Developer Utilities",
-    ],
-  },
-  mål: "Bygge magiske webopplevelser og nyttige verktøy som får folk til å si 'WOW!' ✨",
-  currentFocus:
-    "Creating developer tools that save time and boost productivity 🚀",
+<table>
+  <tr>
+    <td width="60%">
+      
+### 👨‍💻 Hvem er jeg?
+
+Hei! Jeg er **Marcus**, en nysgjerrig og motivert utvikler fra **Sande, Vestfold** 📍 som startet sin kodereise i 2025. Selv om jeg er ny i feltet, brenner jeg for å lære og skape digitale løsninger.
+
+### 🚀 Min reise
+
+Som **Jr. Frontend & Jr. Full-Stack Developer** er jeg i starten av min utviklerkarriere, men har allerede kastet meg ut i spennende prosjekter. På kort tid har jeg lært meg moderne teknologier og til og med publisert mine første **NPM-pakker** - noe jeg er stolt av!
+
+### 🎯 Hva driver meg?
+
+```typescript
+const myJourney = {
+  startedCoding: "2025",
+  mission: "Lære, bygge og bidra til utviklermiljøet ✨",
+  focus: [
+    "Learning Best Practices",
+    "Clean Code",
+    "User Experience",
+    "Helpful Tools",
+  ],
+  currentGoal: "Fortsette å lære og skape nyttige verktøy 🚀",
 };
 ```
 
-> **"I deliver production-ready, high-performance web applications with a focus on accessibility, clean code and user-centric design."**
+### 🌱 Det jeg lærer og bygger
+
+- 🎨 **Frontend** - React, Next.js, Vue.js, TypeScript (lærer mer hver dag!)
+- 🛠️ **Backend** - Node.js, MongoDB, API-utvikling (fortsatt lærer)
+- 📦 **NPM-pakker** - Har laget mine første CLI tools og scaffolders
+- 🎯 **Problem Solving** - Elsker å finne løsninger på utfordringer
+
+      </td>
+      <td width="40%" align="center">
+        <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Animation" width="100%"/>
+
+        <br/><br/>
+
+        <div align="center">
+          <img src="https://img.shields.io/badge/Location-Sande%2C%20Vestfold-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+          <br/>
+          <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-4FC08D?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
+          <br/>
+          <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Creating-CB3837?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Focus"/>
+        </div>
+
+        <br/>
+
+        ### 🎮 Fun Facts
+
+        - 🌟 Startet å kode i 2025 - og elsker reisen så langt!
+        - ☕ Kan ikke starte dagen uten kaffe
+        - 🚀 Alltid spent på å lære noe nytt
+        - 📚 Har allerede publisert mine første NPM-pakker
+        - 🎯 Drømmer om å bidra mer til open source
+
+      </td>
+
+    </tr>
+  </table>
+
+<div align="center">
+  <h3>💭 Min filosofi</h3>
+  <p><em>"I deliver production-ready, high-performance web applications with a focus on accessibility, clean code and user-centric design."</em></p>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Always%20Learning-00D9FF?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Always Learning"/>
+  <img src="https://img.shields.io/badge/Problem%20Solver-4FC08D?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Problem Solver"/>
+  <img src="https://img.shields.io/badge/Team%20Player-FF6B6B?style=for-the-badge&logo=users&logoColor=white" alt="Team Player"/>
+</div>
 
 <br/>
 
