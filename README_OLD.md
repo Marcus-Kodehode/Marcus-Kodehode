@@ -5,7 +5,7 @@
 </p>
 
   <!-- Animert header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=750&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Full-Stack+Developer+%26+NPM+Creator+%F0%9F%9A%80;React;Next.js;Vue.js;Angular;TypeScript;Node.js;Zod;Postman;Tailwind+CSS;CSS3;Styled+Components;Git;Vite;Vercel;VS+Code;Clerk;MongoDB%2FAtlas;NPM+Packages" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=750&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Frontend+Developer+%26+NPM+Creator+%F0%9F%9A%80;React;Next.js;Vue.js;Angular;TypeScript;Node.js;Zod;Postman;Tailwind+CSS;CSS3;Styled+Components;Git;Vite;Vercel;VS+Code;Clerk;MongoDB%2FAtlas;NPM+Packages" alt="Typing SVG" />
 
   <!-- Social badges -->
   <p align="center">
@@ -17,9 +17,6 @@
     </a>
     <a href="https://vercel.com/marcus-boerresens-projects">
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    </a>
-    <a href="https://www.npmjs.com/~marcus-kodehode">
-      <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Profile"/>
     </a>
   </p>
   
@@ -41,24 +38,29 @@
 ```javascript
 const marcus = {
   lokasjon: "Sande, Vestfold 📍",
-  rolle: "Full-Stack Developer & NPM Package Creator",
+  rolle: "Jr. Frontender/Jr. Full-Stack Developer & NPM Package Creator",
   fokus: ["User Experience", "Clean Code", "Performance", "Developer Tools"],
   teknologier: {
     frontend: ["React", "Next.js", "Vue.js", "TypeScript", "Angular"],
     styling: ["Tailwind CSS", "CSS3", "Styled Components", "SASS/SCSS"],
     backend: ["Node.js", "Express", "MongoDB"],
     verktøy: [
-      "Git", "Vite", "Vercel", "VS Code", "Clerk", 
-      "MongoDB/Atlas", "Postman"
+      "Git",
+      "Vite",
+      "Vercel",
+      "VS Code",
+      "Clerk",
+      "MongoDB/Atlas",
+      "Postman",
     ],
     validation: ["Zod", "TypeScript", "Schema Validation"],
     npm: [
-      "CLI Tools", "Project Scaffolders", 
-      "File Organizers", "Developer Utilities"
+      "Project Scaffolders",
+      "File Organizers",
+      "Developer Utilities",
     ],
   },
   mål: "Bygge magiske webopplevelser og nyttige verktøy som får folk til å si 'WOW!' ✨",
-  currentFocus: "Creating developer tools that save time and boost productivity 🚀"
 };
 ```
 
@@ -81,11 +83,9 @@ const marcus = {
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   
   ### Backend & Validation
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248)
@@ -108,91 +108,63 @@ const marcus = {
 
 <br/>
 
-## 📦 NPM Packages
+## � NPM Packages
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=header&text=My%20NPM%20Ecosystem&fontSize=30&fontColor=fff&animation=fadeIn" alt="NPM Header" />
-</div>
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-cli.svg" alt="CLI Icon" width="80"/>
-      <h3>🗂️ Smart File Organizer</h3>
-      
-      [![NPM Version](https://img.shields.io/npm/v/smart-file-organizer?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/smart-file-organizer)
-      [![NPM Downloads](https://img.shields.io/npm/dt/smart-file-organizer?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/smart-file-organizer)
-      [![GitHub Stars](https://img.shields.io/github/stars/Marcus-Kodehode/smart-file-organizer?style=for-the-badge&logo=github&color=yellow)](https://github.com/Marcus-Kodehode/smart-file-organizer)
-      
-      <p><strong>🎯 Intelligent CLI file organization tool</strong></p>
-      
-      ```bash
-      npm install -g smart-file-organizer
-      organize-files --preview
-      ```
-      
-      <details>
-      <summary><strong>✨ Key Features</strong></summary>
-      <br>
-      
-      • 🔍 **Preview Mode** - Safe before execution<br>
-      • 📁 **50+ File Types** - Smart categorization<br>
-      • 📝 **Detailed Logging** - Track every operation<br>
-      • ⚡ **Lightning Fast** - Hundreds of files/second<br>
-      • 🛡️ **Safe Operations** - Confirmation required<br>
-      • 🎨 **Customizable** - Your own rules<br>
-      
-      </details>
-      
-      <a href="https://www.npmjs.com/package/smart-file-organizer">
-        <img src="https://img.shields.io/badge/View%20on%20NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nextjs.svg" alt="Next.js Icon" width="80"/>
-      <h3>🚀 Next.js Project Scaffolder</h3>
-      
-      [![NPM Version](https://img.shields.io/npm/v/nextjs-project-scaffolder?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/nextjs-project-scaffolder)
-      [![NPM Downloads](https://img.shields.io/npm/dt/nextjs-project-scaffolder?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/nextjs-project-scaffolder)
-      [![GitHub Stars](https://img.shields.io/github/stars/Marcus-Kodehode/nextjs-project-scaffolder?style=for-the-badge&logo=github&color=yellow)](https://github.com/Marcus-Kodehode/nextjs-project-scaffolder)
-      
-      <p><strong>🎯 Professional Next.js project generator</strong></p>
-      
-      ```bash
-      npm install -g nextjs-project-scaffolder
-      create-nextjs-project my-app
-      ```
-      
-      <details>
-      <summary><strong>✨ Key Features</strong></summary>
-      <br>
-      
-      • 🎯 **Modern Setup** - App Router ready<br>
-      • 📁 **Pro Structure** - Industry standards<br>
-      • 🎨 **Style Ready** - CSS/Tailwind support<br>
-      • 🔧 **TypeScript** - Full type safety<br>
-      • 📱 **Responsive** - Mobile-first approach<br>
-      • ⚡ **Zero Config** - Ready to code<br>
-      
-      </details>
-      
-      <a href="https://www.npmjs.com/package/nextjs-project-scaffolder">
-        <img src="https://img.shields.io/badge/View%20on%20NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+### 🗂️ Smart File Organizer
 
-<div align="center">
-  <h3>📈 NPM Package Stats</h3>
-  <img src="https://img.shields.io/badge/Total%20Downloads-1K+-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/Active%20Packages-2-00D9FF?style=for-the-badge&logo=npm&logoColor=white" alt="Active Packages"/>
-  <img src="https://img.shields.io/badge/Weekly%20Downloads-Growing-4FC08D?style=for-the-badge&logo=npm&logoColor=white" alt="Weekly Downloads"/>
-  
-  <br/><br/>
-  
-  <p><strong>🎯 Building tools that developers love to use</strong></p>
-  <p>From file organization to project scaffolding - making development faster and more enjoyable!</p>
+<!-- Legg til logo her: <img src="/main/assets/smart-file-organizer-logo.png" alt="Smart File Organizer Logo" width="100"/> -->
+
+[![NPM Version](https://img.shields.io/npm/v/smart-file-organizer?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/smart-file-organizer)
+[![NPM Downloads](https://img.shields.io/npm/dt/smart-file-organizer?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/smart-file-organizer)
+
+**En intelligent CLI-verktøy som automatisk organiserer filene dine etter type**
+
+```bash
+npm install -g smart-file-organizer
+```
+
+✨ **Features:**
+
+- 🔍 Preview Mode - Se hva som skjer før endringer
+- 📁 Smart kategorisering av 50+ filtyper
+- 📝 Detaljert logging med tidsstempler
+- ⚡ Rask & effektiv - prosesserer hundrevis av filer på sekunder
+- 🛡️ Trygg operasjon - bekrefter før endringer
+
+---
+
+### 🚀 Next.js Project Scaffolder
+
+<img src="/main/assets/nextjs-scaffolder-logo.png" alt="Next.js Scaffolder Logo" width="100"/>
+
+[![NPM Version](https://img.shields.io/npm/v/nextjs-project-scaffolder?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/nextjs-project-scaffolder)
+[![NPM Downloads](https://img.shields.io/npm/dt/nextjs-project-scaffolder?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/nextjs-project-scaffolder)
+
+**Profesjonell Next.js prosjektstruktur på sekunder**
+
+```bash
+npm install -g nextjs-project-scaffolder
+```
+
+✨ **Features:**
+
+- 🎯 Moderne Next.js setup med App Router
+- 📁 Profesjonell mappestruktur
+- 🎨 Klar for styling (CSS/Tailwind)
+- 🔧 TypeScript ready
+- 📱 Responsiv design ready
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/smart-file-organizer">
+    <img src="https://img.shields.io/badge/View%20Smart%20File%20Organizer-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  </a>
+  <a href="https://www.npmjs.com/package/nextjs-project-scaffolder">
+    <img src="https://img.shields.io/badge/View%20Next.js%20Scaffolder-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
 <br/>
@@ -205,44 +177,11 @@ const marcus = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Project%20Showcase&fontSize=30&fontColor=fff&animation=fadeIn" alt="Projects Header" />
-</div>
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🎬 BusterBlock - Movie Reviews</h3>
-      <div align="center">
-        <a href="https://github.com/Marcus-Kodehode/Buster-Block">
-          <img src="/main/assets/buster-block-screenshot.png" alt="BusterBlock Screenshot" width="200"/>
-        </a>
-        <br/><br/>
-        <p>
-          <a href="https://github.com/Marcus-Kodehode/Buster-Block">
-            <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://buster-block.vercel.app/">
-            <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Next.js • TypeScript • MongoDB • Clerk • Zod</strong></p>
-        <p>Full-stack movie review platform with authentication, CRUD operations, and API testing with Postman</p>
-        
-        <details>
-        <summary><strong>🔧 Tech Highlights</strong></summary>
-        <br>
-        
-        • **Full-Stack Architecture** - Complete CRUD operations<br>
-        • **Authentication** - Secure user management with Clerk<br>
-        • **Schema Validation** - Type-safe APIs with Zod<br>
-        • **API Testing** - Comprehensive Postman collection<br>
-        • **Responsive Design** - Mobile-optimized interface<br>
-        
-        </details>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎮 ToDo - Task Management</h3>
+      <h3 align="center">🎮 ToDo - Task Management App</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/ToDo">
           <img src="/main/assets/todo-screenshot.png" alt="ToDo Screenshot" width="200"/>
@@ -257,11 +196,9 @@ const marcus = {
           </a>
         </p>
         <p><strong>TypeScript • React • Modern UI</strong></p>
-        <p>Elegant task management with integrated calculator functionality</p>
+        <p>Elegant task management med kalkulator</p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🏆 Trevl - Photo Diary</h3>
       <div align="center">
@@ -278,9 +215,11 @@ const marcus = {
           </a>
         </p>
         <p><strong>TypeScript • Next.js • API Integration</strong></p>
-        <p>Interactive photo diary for vacation memories</p>
+        <p>Morsomt samlested for ferieminner</p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">✈️ Feriehjelper - Vacation Helper</h3>
       <div align="center">
@@ -297,11 +236,49 @@ const marcus = {
           </a>
         </p>
         <p><strong>JavaScript • Clerk • MongoDB/Atlas</strong></p>
-        <p>Interactive vacation planning application</p>
+        <p>Interaktiv ferieplanlegger</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📖 My Awesome CV</h3>
+      <div align="center">
+        <a href="https://github.com/Marcus-Kodehode/my-awesome-cv">
+          <img src="/main/assets/cv-screenshot.png" alt="CV Screenshot" width="200"/>
+        </a>
+        <br/><br/>
+        <p>
+          <a href="https://github.com/Marcus-Kodehode/my-awesome-cv">
+            <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://my-awesome-cv.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Next.js • Tailwind • Responsive</strong></p>
+        <p>Min digitale CV med moderne design</p>
       </div>
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3 align="center">🌊 Drammen Dykkerklubb</h3>
+      <div align="center">
+        <a href="https://github.com/Marcus-Kodehode/drammendykker-klubb">
+          <img src="/main/assets/dykkerklubb-screenshot.png" alt="Dykkerklubb Screenshot" width="200"/>
+        </a>
+        <br/><br/>
+        <p>
+          <a href="https://github.com/Marcus-Kodehode/drammendykker-klubb">
+            <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://drammendykker-klubb.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>React • Vite • Club Website</strong></p>
+        <p>Nettside for lokal dykkerklubb</p>
+      </div>
+    </td>
     <td width="50%">
       <h3 align="center">🎨 ColorCraft</h3>
       <div align="center">
@@ -321,6 +298,8 @@ const marcus = {
         <p>Professional color palette testing and visualization tool</p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🎰 CardDuel</h3>
       <div align="center">
@@ -337,7 +316,26 @@ const marcus = {
           </a>
         </p>
         <p><strong>Next.js • TypeScript • Tailwind CSS</strong></p>
-        <p>Sleek and modern card game - Test your luck!</p>
+        <p>A sleek and modern card game - Test your luck in this high-card duel!</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎬 BusterBlock</h3>
+      <div align="center">
+        <a href="https://github.com/Marcus-Kodehode/Buster-Block">
+          <img src="/main/assets/buster-block-screenshot.png" alt="BusterBlock Screenshot" width="200"/>
+        </a>
+        <br/><br/>
+        <p>
+          <a href="https://github.com/Marcus-Kodehode/Buster-Block">
+            <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://buster-block.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Next.js • TypeScript • MongoDB • Clerk</strong></p>
+        <p>Full-stack movie review platform - Rate, review, and discover cinema!</p>
       </div>
     </td>
   </tr>
@@ -356,10 +354,11 @@ const marcus = {
   <p><strong>Always Building • Always Learning • Always Innovating</strong></p>
 </div>
 
+</div>
+
 <br/>
 
 <!-- Gradient divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
@@ -416,9 +415,7 @@ const marcus = {
     marcus.contact({
       email: "marcusboerresen@gmail.com",
       linkedin: "marcus-borresen",
-      npm: "@marcus-kodehode",
-      response_time: "< 24 timer",
-      specialties: ["Full-Stack Development", "NPM Packages", "Developer Tools"]
+      response_time: "< 24 timer"
     });
   }
   ```
