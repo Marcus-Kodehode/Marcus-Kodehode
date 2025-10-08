@@ -18,7 +18,7 @@
     <a href="https://vercel.com/marcus-boerresens-projects">
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
     </a>
-    <a href="https://www.npmjs.com/~marcus-kodehode">
+    <a href="https://www.npmjs.com/~lazyelmo">
       <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Profile"/>
     </a>
   </p>
