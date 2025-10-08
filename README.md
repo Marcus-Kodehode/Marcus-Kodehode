@@ -5,7 +5,7 @@
 </p>
 
   <!-- Animert header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=750&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React;Next.js;Vue.js;Angular;TypeScript;Tailwind+CSS;CSS3;Styled+Components;Git;Vite;Vercel;VS+Code;Clerk;MongoDB%2FAtlas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=750&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Frontend+Developer+%26+NPM+Creator+%F0%9F%9A%80;React;Next.js;Vue.js;Angular;TypeScript;Node.js;Zod;Postman;Tailwind+CSS;CSS3;Styled+Components;Git;Vite;Vercel;VS+Code;Clerk;MongoDB%2FAtlas;NPM+Packages" alt="Typing SVG" />
 
   <!-- Social badges -->
   <p align="center">
@@ -38,14 +38,29 @@
 ```javascript
 const marcus = {
   lokasjon: "Sande, Vestfold 📍",
-  rolle: "Frontend Developer",
-  fokus: ["User Experience", "Clean Code", "Performance"],
+  rolle: "Jr. Frontender/Jr. Full-Stack Developer & NPM Package Creator",
+  fokus: ["User Experience", "Clean Code", "Performance", "Developer Tools"],
   teknologier: {
     frontend: ["React", "Next.js", "Vue.js", "TypeScript", "Angular"],
-    styling: ["Tailwind CSS", "CSS3", "Styled Components"],
-    verktøy: ["Git", "Vite", "Vercel", "VS Code", "Clerk", "MongoDB/Atlas"],
+    styling: ["Tailwind CSS", "CSS3", "Styled Components", "SASS/SCSS"],
+    backend: ["Node.js", "Express", "MongoDB"],
+    verktøy: [
+      "Git",
+      "Vite",
+      "Vercel",
+      "VS Code",
+      "Clerk",
+      "MongoDB/Atlas",
+      "Postman",
+    ],
+    validation: ["Zod", "TypeScript", "Schema Validation"],
+    npm: [
+      "Project Scaffolders",
+      "File Organizers",
+      "Developer Utilities",
+    ],
   },
-  mål: "Bygge magiske webopplevelser som får folk til å si 'WOW!' ✨",
+  mål: "Bygge magiske webopplevelser og nyttige verktøy som får folk til å si 'WOW!' ✨",
 };
 ```
 
@@ -69,14 +84,86 @@ const marcus = {
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
   
+  ### Backend & Validation
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248)
+  
   ### Tools & Platforms
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- Gradient divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## � NPM Packages
+
+<div align="center">
+
+### 🗂️ Smart File Organizer
+
+<!-- Legg til logo her: <img src="/main/assets/smart-file-organizer-logo.png" alt="Smart File Organizer Logo" width="100"/> -->
+
+[![NPM Version](https://img.shields.io/npm/v/smart-file-organizer?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/smart-file-organizer)
+[![NPM Downloads](https://img.shields.io/npm/dt/smart-file-organizer?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/smart-file-organizer)
+
+**En intelligent CLI-verktøy som automatisk organiserer filene dine etter type**
+
+```bash
+npm install -g smart-file-organizer
+```
+
+✨ **Features:**
+
+- 🔍 Preview Mode - Se hva som skjer før endringer
+- 📁 Smart kategorisering av 50+ filtyper
+- 📝 Detaljert logging med tidsstempler
+- ⚡ Rask & effektiv - prosesserer hundrevis av filer på sekunder
+- 🛡️ Trygg operasjon - bekrefter før endringer
+
+---
+
+### 🚀 Next.js Project Scaffolder
+
+<img src="/main/assets/nextjs-scaffolder-logo.png" alt="Next.js Scaffolder Logo" width="100"/>
+
+[![NPM Version](https://img.shields.io/npm/v/nextjs-project-scaffolder?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/nextjs-project-scaffolder)
+[![NPM Downloads](https://img.shields.io/npm/dt/nextjs-project-scaffolder?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/nextjs-project-scaffolder)
+
+**Profesjonell Next.js prosjektstruktur på sekunder**
+
+```bash
+npm install -g nextjs-project-scaffolder
+```
+
+✨ **Features:**
+
+- 🎯 Moderne Next.js setup med App Router
+- 📁 Profesjonell mappestruktur
+- 🎨 Klar for styling (CSS/Tailwind)
+- 🔧 TypeScript ready
+- 📱 Responsiv design ready
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/smart-file-organizer">
+    <img src="https://img.shields.io/badge/View%20Smart%20File%20Organizer-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  </a>
+  <a href="https://www.npmjs.com/package/nextjs-project-scaffolder">
+    <img src="https://img.shields.io/badge/View%20Next.js%20Scaffolder-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
