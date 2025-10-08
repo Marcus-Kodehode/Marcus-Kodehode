@@ -76,30 +76,33 @@ const myJourney = {
 - 🎯 **Problem Solving** - Elsker å finne løsninger på utfordringer
 
       </td>
-      <td width="40%" align="center">
-        <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Animation" width="100%"/>
 
-        <br/><br/>
+    <td width="40%" align="center">
 
-        <div align="center">
-          <img src="https://img.shields.io/badge/Location-Sande%2C%20Vestfold-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
-          <br/>
-          <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-4FC08D?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
-          <br/>
-          <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Creating-CB3837?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Focus"/>
-        </div>
 
-        <br/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Animation" width="100%"/>
 
-        ### 🎮 Fun Facts
+<br/><br/>
 
-        - 🌟 Startet å kode i 2025 - og elsker reisen så langt!
-        - ☕ Kan ikke starte dagen uten kaffe
-        - 🚀 Alltid spent på å lære noe nytt
-        - 📚 Har allerede publisert mine første NPM-pakker
-        - 🎯 Drømmer om å bidra mer til open source
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Sande%2C%20Vestfold-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-4FC08D?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Creating-CB3837?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Focus"/>
+</div>
 
-      </td>
+<br/>
+
+### 🎮 Fun Facts
+
+- 🌟 Startet å kode i 2025 - og elsker reisen så langt!
+- ☕ Kan ikke starte dagen uten kaffe
+- 🚀 Alltid spent på å lære noe nytt
+- 📚 Har allerede publisert mine første NPM-pakker
+- 🎯 Drømmer om å bidra mer til open source
+
+    </td>
 
     </tr>
   </table>
