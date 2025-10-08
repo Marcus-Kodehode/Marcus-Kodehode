@@ -5,7 +5,7 @@
 </p>
 
   <!-- Animert header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Jr.+Frontend+%26+Jr.+Full-Stack+Developer+%F0%9F%9A%80;Frontend%3A+React+%E2%80%A2+Next.js+%E2%80%A2+Vue.js+%E2%80%A2+TypeScript;Backend%3A+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Zod+%E2%80%A2+Postman;Styling%3A+Tailwind+CSS+%E2%80%A2+CSS3+%E2%80%A2+Styled+Components;Tools%3A+Git+%E2%80%A2+Vite+%E2%80%A2+Vercel+%E2%80%A2+VS+Code;NPM+Creator+%E2%80%A2+CLI+Tools+%E2%80%A2+Project+Scaffolders" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1800&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Jr.+Frontend+%26+Jr.+Full-Stack+Developer+%F0%9F%9A%80;%F0%9F%8E%A8+Frontend;React+%E2%80%A2+Next.js+%E2%80%A2+Vue.js;TypeScript+%E2%80%A2+Angular;%F0%9F%9B%A0%EF%B8%8F+Backend;Node.js+%E2%80%A2+MongoDB;Zod+%E2%80%A2+Postman;%F0%9F%8E%A8+Styling;Tailwind+CSS+%E2%80%A2+CSS3;Styled+Components;%F0%9F%94%A7+Tools;Git+%E2%80%A2+Vite+%E2%80%A2+Vercel;VS+Code+%E2%80%A2+Clerk;%F0%9F%93%A6+NPM+Creator;CLI+Tools;Project+Scaffolders" alt="Typing SVG" />
 
   <!-- Social badges -->
   <p align="center">
