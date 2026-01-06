@@ -1,4 +1,4 @@
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6ZF4W2ZbdLVyvVEbUTkwFz?si=df4a6aff66f24a07)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6ZF4W2ZbdLVyvVEbUTkwFz?si=9f081d8fc2be44a7)
 
 <div align="center">
   <!-- Din logo her -->
