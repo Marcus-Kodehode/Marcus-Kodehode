@@ -1,5 +1,3 @@
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify?spin=true)](https://open.spotify.com/track/6ZF4W2ZbdLVyvVEbUTkwFz)
-
 <div align="center">
   <!-- Din logo her -->
 <p align="center">
@@ -421,6 +419,16 @@ create-nextjs-project my-app
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcus-Kodehode&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Marcus GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Kodehode&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Kodehode&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Marcus-Kodehode&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcus-Kodehode&custom_title=Marcus's%20Activity%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
@@ -428,14 +436,6 @@ create-nextjs-project my-app
 
 <!-- Gradient divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marcus-Kodehode&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
-</div>
 
 <br/>
 
