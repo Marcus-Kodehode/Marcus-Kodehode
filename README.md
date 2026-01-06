@@ -1,4 +1,4 @@
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6ZF4W2ZbdLVyvVEbUTkwFz?si=9f081d8fc2be44a7)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify?spin=true)](https://open.spotify.com/track/6ZF4W2ZbdLVyvVEbUTkwFz)
 
 <div align="center">
   <!-- Din logo her -->
@@ -419,17 +419,6 @@ create-nextjs-project my-app
 <br/>
 
 ## 📊 GitHub Analytics
-
-<!-- <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcus-Kodehode&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Marcus GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Kodehode&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-Kodehode&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div> -->
-
-<img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcus-Kodehode&custom_title=Marcus's%20Activity%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
