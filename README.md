@@ -239,7 +239,7 @@ create-nextjs-project my-app
       <h3 align="center">�  Schedulo - Multi-Tenant Booking Platform</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/schedulo">
-          <img src="/main/assets/schedulo-screenshot.png" alt="Schedulo Screenshot" width="200"/>
+          <img src="/main/assets/Schedulo-screenshot.png" alt="Schedulo Screenshot" width="200"/>
         </a>
         <br/><br/>
         <p>
@@ -279,7 +279,7 @@ create-nextjs-project my-app
       <h3 align="center">⚔️ Pokédex Battle System</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/pokemon-battlegrounds">
-          <img src="/main/assets/pokemon-screenshot.png" alt="Pokédex Battle System Screenshot" width="200"/>
+          <img src="/main/assets/pokeduel-screenshot.png" alt="Pokédex Battle System Screenshot" width="200"/>
         </a>
         <br/><br/>
         <p>
