@@ -251,7 +251,7 @@ create-nextjs-project my-app
           </a>
         </p>
         <p><strong>Laravel 12 • PHP 8.3 • MySQL • Alpine.js • Tailwind CSS</strong></p>
-        <p>Complete SaaS booking platform with multi-tenant architecture, resource management, and subscriptions</p>
+        <p>Komplett SaaS bookingplattform med multi-tenant arkitektur, ressursstyring og abonnementer</p>
       </div>
     </td>
     <td width="50%">
@@ -270,7 +270,7 @@ create-nextjs-project my-app
           </a>
         </p>
         <p><strong>Next.js 16 • TypeScript • MongoDB • Zod • Tailwind CSS 4</strong></p>
-        <p>Complete POS system with product management, sales tracking, AI-inspired pricing, and CSV export</p>
+        <p>Komplett kassesystem med produktstyring, salgsoppfølging, AI-inspirert prissetting og CSV-eksport</p>
       </div>
     </td>
   </tr>
@@ -291,7 +291,7 @@ create-nextjs-project my-app
           </a>
         </p>
         <p><strong>Next.js 16 • MongoDB • Clerk • TypeScript • Tailwind CSS 4</strong></p>
-        <p>Strategic Pokémon battle system with complete Pokédex, team builder, and achievements</p>
+        <p>Strategisk Pokémon kampsystem med komplett Pokédex, team builder og prestasjoner</p>
       </div>
     </td>
     <td width="50%">
@@ -331,7 +331,7 @@ create-nextjs-project my-app
           </a>
         </p>
         <p><strong>Next.js 16 • MongoDB • Clerk • Zod • TypeScript • Tailwind CSS</strong></p>
-        <p>Modern job application tracker with Kanban board, task management, and CSV export</p>
+        <p>Moderne jobbsøknadssporer med Kanban-tavle, oppgavestyring og CSV-eksport</p>
       </div>
     </td>
     <td width="50%">
@@ -350,7 +350,7 @@ create-nextjs-project my-app
           </a>
         </p>
         <p><strong>Next.js • TypeScript • MongoDB • Clerk • Zod • Postman</strong></p>
-        <p>Full-stack movie review platform - Rate, review, and discover cinema!</p>
+        <p>Full-stack filmanmeldelsesplattform - Vurder, anmeld og oppdag film!</p>
       </div>
     </td>
   </tr>
@@ -451,7 +451,7 @@ create-nextjs-project my-app
           </a>
         </p>
         <p><strong>Next.js • TypeScript • Tailwind CSS</strong></p>
-        <p>Professional color palette testing and visualization tool</p>
+        <p>Profesjonelt verktøy for fargepalettetesting og visualisering</p>
       </div>
     </td>
     <td width="50%">
@@ -491,7 +491,7 @@ create-nextjs-project my-app
           </a>
         </p>
         <p><strong>Next.js • TypeScript • Tailwind CSS</strong></p>
-        <p>A sleek and modern card game - Test your luck in this high-card duel!</p>
+        <p>Et elegant og moderne kortspill - Test lykken din i denne høykort-duellen!</p>
       </div>
     </td>
   </tr>
