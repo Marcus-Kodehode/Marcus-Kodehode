@@ -334,8 +334,6 @@ create-nextjs-project my-app
         <p>Modern job application tracker with Kanban board, task management, and CSV export</p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🎬 BusterBlock</h3>
       <div align="center">
@@ -355,6 +353,8 @@ create-nextjs-project my-app
         <p>Full-stack movie review platform - Rate, review, and discover cinema!</p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🎮 ToDo - Task Management App</h3>
       <div align="center">
@@ -374,8 +374,6 @@ create-nextjs-project my-app
         <p>Elegant task management med kalkulator</p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🏆 Trevl - Photo Diary</h3>
       <div align="center">
@@ -395,6 +393,8 @@ create-nextjs-project my-app
         <p>Morsomt samlested for ferieminner</p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">✈️ Feriehjelper - Vacation Helper</h3>
       <div align="center">
@@ -414,8 +414,6 @@ create-nextjs-project my-app
         <p>Interaktiv ferieplanlegger</p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">📖 My Awesome CV</h3>
       <div align="center">
@@ -435,6 +433,8 @@ create-nextjs-project my-app
         <p>Min digitale CV med moderne design</p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🎨 ColorCraft</h3>
       <div align="center">
@@ -454,8 +454,6 @@ create-nextjs-project my-app
         <p>Professional color palette testing and visualization tool</p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🌊 Drammen Dykkerklubb</h3>
       <div align="center">
@@ -475,6 +473,8 @@ create-nextjs-project my-app
         <p>Nettside for lokal dykkerklubb</p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🎰 CardDuel</h3>
       <div align="center">
