@@ -236,6 +236,88 @@ create-nextjs-project my-app
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">�  Schedulo - Multi-Tenant Booking Platform</h3>
+      <div align="center">
+        <a href="https://github.com/Marcus-Kodehode/schedulo">
+          <img src="/main/assets/schedulo-screenshot.png" alt="Schedulo Screenshot" width="200"/>
+        </a>
+        <br/><br/>
+        <p>
+          <a href="https://github.com/Marcus-Kodehode/schedulo">
+            <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://schedulo.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Laravel 12 • PHP 8.3 • MySQL • Alpine.js • Tailwind CSS</strong></p>
+        <p>Complete SaaS booking platform with multi-tenant architecture, resource management, and subscriptions</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💰 moboPOS - Moderne POS-løsning</h3>
+      <div align="center">
+        <a href="https://github.com/Marcus-Kodehode/mobopos">
+          <img src="/main/assets/mobopos-screenshot.png" alt="moboPOS Screenshot" width="200"/>
+        </a>
+        <br/><br/>
+        <p>
+          <a href="https://github.com/Marcus-Kodehode/mobopos">
+            <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://mobopos.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Next.js 16 • TypeScript • MongoDB • Zod • Tailwind CSS 4</strong></p>
+        <p>Complete POS system with product management, sales tracking, AI-inspired pricing, and CSV export</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚔️ Pokédex Battle System</h3>
+      <div align="center">
+        <a href="https://github.com/Marcus-Kodehode/pokemon-battlegrounds">
+          <img src="/main/assets/pokemon-screenshot.png" alt="Pokédex Battle System Screenshot" width="200"/>
+        </a>
+        <br/><br/>
+        <p>
+          <a href="https://github.com/Marcus-Kodehode/pokemon-battlegrounds">
+            <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://pokemon-battlegrounds.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Next.js 16 • MongoDB • Clerk • TypeScript • Tailwind CSS 4</strong></p>
+        <p>Strategic Pokémon battle system with complete Pokédex, team builder, and achievements</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎁 Julerulett</h3>
+      <div align="center">
+        <a href="https://github.com/Marcus-Kodehode/julerulett">
+          <img src="/main/assets/julerulett-screenshot.png" alt="Julerulett Screenshot" width="200"/>
+        </a>
+        <br/><br/>
+        <p>
+          <a href="https://github.com/Marcus-Kodehode/julerulett">
+            <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://julerulett.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Next.js 16 • React 19 • TypeScript • Tailwind CSS 4 • Framer Motion</strong></p>
+        <p>Festlig gave-rulett med animert hjul, konfetti og nordisk julestil</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">🎬 BusterBlock</h3>
       <div align="center">
         <a href="https://github.com/Marcus-Kodehode/Buster-Block">
@@ -252,6 +334,27 @@ create-nextjs-project my-app
         </p>
         <p><strong>Next.js • TypeScript • MongoDB • Clerk • Zod • Postman</strong></p>
         <p>Full-stack movie review platform - Rate, review, and discover cinema!</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💼 Jobbsøk Assistent</h3>
+      <div align="center">
+        <a href="https://github.com/Marcus-Kodehode/jobbsok-assistent">
+          <img src="/main/assets/jobbsøk-screenshot.png" alt="Jobbsøk Assistent Screenshot" width="200"/>
+        </a>
+        <br/><br/>
+        <p>
+          <a href="https://github.com/Marcus-Kodehode/jobbsok-assistent">
+            <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://jobbsok-assistent.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Next.js 16 • MongoDB • Clerk • Zod • TypeScript • Tailwind CSS</strong></p>
+        <p>Modern job application tracker with Kanban board, task management, and CSV export</p>
       </div>
     </td>
     <td width="50%">
@@ -273,8 +376,6 @@ create-nextjs-project my-app
         <p>Elegant task management med kalkulator</p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🏆 Trevl - Photo Diary</h3>
       <div align="center">
