@@ -5,7 +5,7 @@
 </p>
 
   <!-- Animert header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1800&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Jr.+Frontend+%26+Jr.+Full-Stack+Developer+%F0%9F%9A%80;%F0%9F%8E%A8+Frontend;React+%E2%80%A2+Next.js+%E2%80%A2+Vue.js;TypeScript+%E2%80%A2+Angular;%F0%9F%9B%A0%EF%B8%8F+Backend;Node.js+%E2%80%A2+MongoDB;Zod+%E2%80%A2+Postman;%F0%9F%8E%A8+Styling;Tailwind+CSS+%E2%80%A2+CSS3;Styled+Components;%F0%9F%94%A7+Tools;Git+%E2%80%A2+Vite+%E2%80%A2+Vercel;VS+Code+%E2%80%A2+Clerk;%F0%9F%93%A6+NPM+Creator;CLI+Tools;Project+Scaffolders" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1800&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&lines=Hei%2C+jeg+heter+Marcus+B%C3%B8rresen+%F0%9F%91%8B;Full-Stack+Developer+%40+Skjld+Labs+%F0%9F%9A%80;%F0%9F%8E%A8+Frontend;React+%E2%80%A2+Next.js+%E2%80%A2+Vue.js;TypeScript+%E2%80%A2+Alpine.js;%F0%9F%9B%A0%EF%B8%8F+Backend;Laravel+%E2%80%A2+PHP+%E2%80%A2+Node.js;Python+%E2%80%A2+FastAPI+%E2%80%A2+C%23+.NET;%F0%9F%97%84%EF%B8%8F+Databases;PostgreSQL+%E2%80%A2+MongoDB;Prisma+%E2%80%A2+SQL+Server+%E2%80%A2+Redis;%F0%9F%A4%96+AI+%26+Integrations;Anthropic+Claude+API;Stripe+%E2%80%A2+NextAuth+%E2%80%A2+Resend;%F0%9F%8E%A8+Styling;Tailwind+CSS+%E2%80%A2+CSS3;%F0%9F%94%A7+DevOps+%26+Tools;Docker+%E2%80%A2+Git+%E2%80%A2+Vite;Vercel+%E2%80%A2+Playwright;%F0%9F%93%A6+NPM+Creator;CLI+Tools+%E2%80%A2+Scaffolders" alt="Typing SVG" />
 
   <!-- Social badges -->
   <p align="center">
@@ -46,34 +46,40 @@
       
 ### 👨‍💻 Hvem er jeg?
 
-Hei! Jeg er **Marcus**, en nysgjerrig og motivert utvikler fra **Sande, Vestfold** 📍 som startet sin kodereise i 2025. Selv om jeg er ny i feltet, brenner jeg for å lære og skape digitale løsninger.
+Hei! Jeg er **Marcus**, en nysgjerrig og driven utvikler fra **Sande, Vestfold** 📍 som startet kodereisen i 2025. Fullførte utviklerstudiet på **Kodehode** og jobber nå som **Full-Stack Developer hos Skjld Labs**, der jeg bygger alt fra Laravel-baserte SaaS-plattformer til AI-drevne byggeverktøy og C#/.NET-integrasjoner mot eksterne systemer.
 
 ### 🚀 Min reise
 
-Som **Jr. Frontend & Jr. Full-Stack Developer** er jeg i starten av min utviklerkarriere, men har allerede kastet meg ut i spennende prosjekter. På kort tid har jeg lært meg moderne teknologier og til og med publisert mine første **NPM-pakker** - noe jeg er stolt av!
+Fra de første linjene med HTML til Laravel-plattformer, AI-agenter og database-integrasjoner i C# – det har vært et halsbrekkende tempo, og jeg elsker hvert minutt. På kort tid har jeg publisert mine første **NPM-pakker**, levert produksjonsklare kundeprosjekter hos Skjld Labs, og bygger parallelt mitt eget **SaaS-hjertebarn** innen AI-drevet porteføljeanalyse.
 
 ### 🎯 Hva driver meg?
 
 ```typescript
 const myJourney = {
   startedCoding: "2025",
-  mission: "Lære, bygge og bidra til utviklermiljøet ✨",
+  education: "Kodehode (ferdig)",
+  currentlyAt: "Skjld Labs – Full-Stack Developer",
+  mission: "Bygge produksjonsklare løsninger som faktisk brukes ✨",
   focus: [
-    "Learning Best Practices",
-    "Clean Code",
-    "User Experience",
-    "Helpful Tools",
+    "Laravel & PHP",
+    "Next.js & TypeScript",
+    "AI-integrasjoner (Claude API)",
+    "Clean Code & Arkitektur",
+    "SaaS & Multi-tenant systemer",
   ],
-  currentGoal: "Fortsette å lære og skape nyttige verktøy 🚀",
+  sideProject: "Aurnor – AI-drevet porteføljeanalyse 🧠📈",
+  currentGoal: "Levere kvalitet, lære C#/.NET dypere, skape eget produkt 🚀",
 };
 ```
 
-### 🌱 Det jeg lærer og bygger
+### 🌱 Det jeg bygger og jobber med
 
-- 🎨 **Frontend** - React, Next.js, Vue.js, TypeScript (lærer mer hver dag!)
-- 🛠️ **Backend** - Node.js, MongoDB, API-utvikling (fortsatt lærer)
-- 📦 **NPM-pakker** - Har laget mine første CLI tools og scaffolders
-- 🎯 **Problem Solving** - Elsker å finne løsninger på utfordringer
+- 🎨 **Frontend** – React, Next.js 16, Vue.js, Alpine.js, TypeScript, Tailwind 4
+- 🛠️ **Backend** – Laravel 12, PHP 8.2+, Node.js, Python/FastAPI, C# / .NET 10
+- 🗄️ **Databaser** – PostgreSQL, MongoDB, SQL Server, Prisma, Redis
+- 🤖 **AI & Integrasjoner** – Anthropic Claude API, Stripe, NextAuth, Resend
+- 📦 **NPM-pakker** – Har laget mine første CLI tools og scaffolders
+- 🎯 **Problem Solving** – Elsker å finne løsninger på ekte kundeutfordringer
 
 
     <td width="40%" align="center">
@@ -86,20 +92,21 @@ const myJourney = {
 <div align="center">
   <img src="https://img.shields.io/badge/Location-Sande%2C%20Vestfold-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
   <br/>
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-4FC08D?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Status-Full--Stack%20%40%20Skjld%20Labs-4FC08D?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
   <br/>
-  <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Creating-CB3837?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20AI-CB3837?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Focus"/>
 </div>
 
 <br/>
 
 ### 🎮 Fun Facts
 
-- 🌟 Startet å kode i 2025 - og elsker reisen så langt!
+- 🌟 Startet å kode i 2025 – og har allerede kunder i produksjon!
+- 🎓 Fullførte Kodehode – nå i full drift hos Skjld Labs
 - ☕ Kan ikke starte dagen uten kaffe
-- 🚀 Alltid spent på å lære noe nytt
-- 📚 Har allerede publisert mine første NPM-pakker
-- 🎯 Drømmer om å bidra mer til open source
+- 🤖 Obsessed med hvordan AI-agenter kan løse ekte problemer
+- 📚 Har publisert mine første NPM-pakker
+- 🎯 Drømmer om å lansere mitt eget SaaS-produkt
 
     </td>
 
@@ -122,39 +129,66 @@ const myJourney = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
-  ### Frontend Frameworks & Libraries
+
+  ### 🎨 Frontend Frameworks & Libraries
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+  ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+  ![TipTap](https://img.shields.io/badge/TipTap-000000?style=for-the-badge&logo=tipTap&logoColor=white)
   ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-  
-  ### Styling & Design
+
+  ### 🎨 Styling & Design
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-  
-  ### Backend & Database
+  ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
+
+  ### 🛠️ Backend & Frameworks
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
   ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+  ### 🗄️ Databases & ORM
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  
-  ### Tools & Platforms
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white)
+  ![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=white)
+
+  ### 🤖 AI, Auth & Payments
+  ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+  ![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+  ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
+
+  ### 🔧 DevOps, Tools & Platforms
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+  ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
@@ -469,8 +503,8 @@ create-nextjs-project my-app
             <img src="https://img.shields.io/badge/LIVE-4FC08D?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
-        <p><strong>React • Vite • Club Website</strong></p>
-        <p>Nettside for lokal dykkerklubb</p>
+        <p><strong>Next.js 16 • React 19 • Prisma 7 • Neon • NextAuth 5 • Tailwind 4</strong></p>
+        <p>Fullstack klubbhjemmeside med CMS, bildegalleri, medlemshåndtering og e-post</p>
       </div>
     </td>
   </tr>
@@ -565,7 +599,7 @@ create-nextjs-project my-app
       linkedin: "marcus-borresen",
       npm: "@marcus-kodehode",
       response_time: "< 24 timer",
-      specialties: ["Full-Stack Development", "NPM Packages", "Developer Tools"]
+      specialties: ["Full-Stack Development", "Laravel & Next.js", "AI Integrations", "SaaS Platforms"]
     });
   }
   ```
