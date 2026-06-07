@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="195" viewBox="0 0 460 195" role="img" aria-label="Marcus GitHub stats">
+  <style>.t { font-family: 'Segoe UI', Ubuntu, sans-serif; }</style>
+  <rect x="0.5" y="0.5" width="459" height="194" rx="14" fill="#0d1117" stroke="#1f2733"/>
+  <rect x="0.5" y="0.5" width="459" height="4" rx="2" fill="#00d9ff"/>
+  <g class="t">
+    <text x="30" y="42" fill="#00d9ff" font-size="19" font-weight="700">Marcus — GitHub Stats</text>
+    <text x="30" y="60" fill="#8b949e" font-size="11.5">Self-hosted · oppdateres daglig · på GitHub siden 2025</text>
+    
+    <g transform="translate(30, 78)">
+      <circle cx="3" cy="-4" r="2.5" fill="#00d9ff"/>
+      <text x="16" y="0" fill="#c9d1d9" font-size="13">Public repos</text>
+      <text x="400" y="0" fill="#f5c518" font-size="13" font-weight="700" text-anchor="end">79</text>
+    </g>
+    <g transform="translate(30, 97.5)">
+      <circle cx="3" cy="-4" r="2.5" fill="#00d9ff"/>
+      <text x="16" y="0" fill="#c9d1d9" font-size="13">Stars earned</text>
+      <text x="400" y="0" fill="#f5c518" font-size="13" font-weight="700" text-anchor="end">12</text>
+    </g>
+    <g transform="translate(30, 117)">
+      <circle cx="3" cy="-4" r="2.5" fill="#00d9ff"/>
+      <text x="16" y="0" fill="#c9d1d9" font-size="13">Followers</text>
+      <text x="400" y="0" fill="#f5c518" font-size="13" font-weight="700" text-anchor="end">9</text>
+    </g>
+    <g transform="translate(30, 136.5)">
+      <circle cx="3" cy="-4" r="2.5" fill="#00d9ff"/>
+      <text x="16" y="0" fill="#c9d1d9" font-size="13">Commits (siste år)</text>
+      <text x="400" y="0" fill="#f5c518" font-size="13" font-weight="700" text-anchor="end">1,239</text>
+    </g>
+    <g transform="translate(30, 156)">
+      <circle cx="3" cy="-4" r="2.5" fill="#00d9ff"/>
+      <text x="16" y="0" fill="#c9d1d9" font-size="13">Pull requests</text>
+      <text x="400" y="0" fill="#f5c518" font-size="13" font-weight="700" text-anchor="end">11</text>
+    </g>
+    <g transform="translate(30, 175.5)">
+      <circle cx="3" cy="-4" r="2.5" fill="#00d9ff"/>
+      <text x="16" y="0" fill="#c9d1d9" font-size="13">Bidrag (siste år)</text>
+      <text x="400" y="0" fill="#f5c518" font-size="13" font-weight="700" text-anchor="end">1,429</text>
+    </g>
+    
+  <g transform="translate(426,36)" fill="#f5c518" opacity="0.9">
+    <ellipse cx="0" cy="6" rx="6" ry="5"/>
+    <ellipse cx="-7" cy="-2" rx="2.4" ry="3.4"/>
+    <ellipse cx="-2.6" cy="-5" rx="2.4" ry="3.6"/>
+    <ellipse cx="2.6" cy="-5" rx="2.4" ry="3.6"/>
+    <ellipse cx="7" cy="-2" rx="2.4" ry="3.4"/>
+  </g>
+  </g>
+</svg>
