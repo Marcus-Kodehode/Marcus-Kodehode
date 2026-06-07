@@ -9,7 +9,7 @@
 
 <!-- Animert header -->
 <a href="https://github.com/Marcus-Kodehode">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=70&lines=Hei%2C%20jeg%20heter%20Marcus%20B%C3%B8rresen%20%F0%9F%91%8B%3BFull-Stack%20Developer%20%40%20Skjld%20Labs%20%F0%9F%9A%80%3BLaravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%3BBygger%20Aurnor%20%E2%80%94%20AI-drevet%20aksjeanalyse%20%F0%9F%93%88%3BFra%20Kodehode-elev%20til%20produksjon%20%E2%9A%A1%3BMoBo%20Digital%20%F0%9F%90%B1%20til%20minne%20om%20Siam" alt="Marcus Børresen — Full-Stack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=820&height=70&lines=Hei%2C%20jeg%20heter%20Marcus%20B%C3%B8rresen%20%F0%9F%91%8B%3BFull-Stack%20Developer%20%40%20Skjld%20Labs%20%F0%9F%9A%80%3BLaravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%3BBygger%20Aurnor%20%F0%9F%93%88%20AI-aksjeanalyse%3BFra%20Kodehode%20til%20produksjon%20%E2%9A%A1%3BMoBo%20Digital%20%F0%9F%90%B1%20til%20minne%20om%20Siam" alt="Marcus Børresen — Full-Stack Developer" />
 </a>
 
 <!-- Social -->
@@ -90,19 +90,23 @@ const marcus = {
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+**Styling & UI**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 **Backend**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Blade](https://img.shields.io/badge/Blade-F53003?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 **Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MongoDB Atlas](https://img.shields.io/badge/Atlas-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 **Verktøy & Plattform**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -136,6 +140,33 @@ Bygget med fokus på sikkerhet, abonnementslogikk og WCAG 2.1 AA.
 
 <td width="50%" valign="top">
 
+#### 💄 Make Up by Michael
+**Portefølje- og bookingside** for makeup-artist Michael Douglas. Editorial-inspirert,
+skandinavisk design bygget for elegant førsteinntrykk og sterk SEO i Norge.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[![Live](https://img.shields.io/badge/▶_LIVE-4FC08D?style=for-the-badge)](https://make-up-by-michael.vercel.app) ![Private](https://img.shields.io/badge/🔒_Privat-0d1117?style=for-the-badge&logo=github&logoColor=8b949e&labelColor=0d1117&color=8b949e)
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🤿 Drammen Sportsdykkere
+Moderne **klubbnettside** med medlemsportal, artikler med planlagt publisering,
+kontaktskjema (Resend) og Vipps/Grasrotandelen-støtte.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Neon](https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=neon&logoColor=black)
+
+[![Live](https://img.shields.io/badge/▶_LIVE-4FC08D?style=for-the-badge)](https://drammen-sportsdykkere-v2.vercel.app) ![Private](https://img.shields.io/badge/🔒_Privat-0d1117?style=for-the-badge&logo=github&logoColor=8b949e&labelColor=0d1117&color=8b949e)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
 #### 📅 Schedulo
 Multi-tenant **SaaS-bookingplattform** for salonger, hytteutleie og tjeneste­bedrifter.
 Komplett tenant-isolasjon, ressursstyring, abonnementsnivåer og unike booking-URL-er.
@@ -155,33 +186,6 @@ stjernerating og sikker innlogging via Clerk.
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
 [![Live](https://img.shields.io/badge/▶_LIVE-4FC08D?style=for-the-badge)](https://buster-block.vercel.app) [![Code](https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcus-Kodehode/Buster-Block)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-#### 💰 moboPOS
-Moderne, webbasert **kassesystem (POS)**. Produktstyring, MVA-beregning, flere
-betalingsmetoder, print-vennlige kvitteringer og salgsanalyse.
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-[![Live](https://img.shields.io/badge/▶_LIVE-4FC08D?style=for-the-badge)](https://mobo-pos.vercel.app) ![Private](https://img.shields.io/badge/🔒_Privat-0d1117?style=for-the-badge&logo=github&logoColor=8b949e&labelColor=0d1117&color=8b949e)
-
-</td>
-
-<td width="50%" valign="top">
-
-#### 🛒 BMPOS
-**Ordre- og betalingssporing** for bruktbutikk. Separate admin- og kundeportaler,
-rollebasert tilgang, soft deletes og full betalingshistorikk.
-
-![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Breeze](https://img.shields.io/badge/Breeze-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-[![Live](https://img.shields.io/badge/▶_LIVE-4FC08D?style=for-the-badge)](https://bm-pos-main-ylatkh.laravel.cloud/) [![Code](https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcus-Kodehode/BM-POS)
 
 </td>
 
