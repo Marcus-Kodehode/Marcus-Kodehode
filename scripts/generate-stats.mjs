@@ -1,5 +1,5 @@
 // =============================================================================
-//  MoBo Stats — self-hosted GitHub stats card generator
+//  GitHub-statistikk — self-hosted kort i Børresen Digital-stil
 // -----------------------------------------------------------------------------
 //  Henter data via GitHub GraphQL og rendrer to SVG-kort som committes til
 //  repoet. Dermed er statistikken alltid oppe — ingen tredjeparts-instanser som
@@ -13,19 +13,19 @@ import { dirname } from "node:path";
 
 const USER = process.env.STATS_USER || "Marcus-Kodehode";
 const TOKEN = process.env.GITHUB_TOKEN;
-const OUT_STATS = "main/assets/mobo-stats.svg";
-const OUT_LANGS = "main/assets/mobo-langs.svg";
+const OUT_STATS = "assets/stats.svg";
+const OUT_LANGS = "assets/langs.svg";
 
-// --- Tema (matcher README) ---------------------------------------------------
+// --- Tema: samme tokens som borresendigital.no (mørk modus) ------------------
 const C = {
-  bg: "#0d1117",
-  card: "#0d1117",
-  border: "#1f2733",
-  text: "#c9d1d9",
-  muted: "#8b949e",
-  cyan: "#00d9ff",
-  gold: "#f5c518",
-  title: "#00d9ff",
+  bg: "#0e0e11",
+  card: "#0e0e11",
+  border: "#2a2a30",
+  text: "#e8e8e6",
+  muted: "#9a9aa2",
+  cyan: "#35d0e8",
+  gold: "#6adcf0", // sekundær aksent (aksent-hover på siden)
+  title: "#35d0e8",
 };
 
 if (!TOKEN) {
@@ -40,7 +40,7 @@ async function gql(query, variables) {
     headers: {
       Authorization: `bearer ${TOKEN}`,
       "Content-Type": "application/json",
-      "User-Agent": "mobo-stats",
+      "User-Agent": "borresen-digital-stats",
     },
     body: JSON.stringify({ query, variables }),
   });
@@ -135,7 +135,7 @@ async function collect() {
 const esc = (s) => String(s).replace(/[<>&]/g, (c) => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;" }[c]));
 const fmt = (n) => n.toLocaleString("en-US");
 
-// Liten katt-silhuett (hyllest til MoBo) i hjørnet
+// Liten katt-silhuett (Siam) i hjørnet
 const catPaw = (x, y, fill) => `
   <g transform="translate(${x},${y})" fill="${fill}" opacity="0.9">
     <ellipse cx="0" cy="6" rx="6" ry="5"/>
