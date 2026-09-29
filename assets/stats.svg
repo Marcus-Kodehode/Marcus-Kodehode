@@ -9,12 +9,12 @@
     <g transform="translate(30, 78)">
       <circle cx="3" cy="-4" r="2.5" fill="#35d0e8"/>
       <text x="16" y="0" fill="#e8e8e6" font-size="13">Public repos</text>
-      <text x="400" y="0" fill="#6adcf0" font-size="13" font-weight="700" text-anchor="end">44</text>
+      <text x="400" y="0" fill="#6adcf0" font-size="13" font-weight="700" text-anchor="end">25</text>
     </g>
     <g transform="translate(30, 97.5)">
       <circle cx="3" cy="-4" r="2.5" fill="#35d0e8"/>
       <text x="16" y="0" fill="#e8e8e6" font-size="13">Stars earned</text>
-      <text x="400" y="0" fill="#6adcf0" font-size="13" font-weight="700" text-anchor="end">6</text>
+      <text x="400" y="0" fill="#6adcf0" font-size="13" font-weight="700" text-anchor="end">5</text>
     </g>
     <g transform="translate(30, 117)">
       <circle cx="3" cy="-4" r="2.5" fill="#35d0e8"/>
@@ -24,12 +24,12 @@
     <g transform="translate(30, 136.5)">
       <circle cx="3" cy="-4" r="2.5" fill="#35d0e8"/>
       <text x="16" y="0" fill="#e8e8e6" font-size="13">Commits (siste år)</text>
-      <text x="400" y="0" fill="#6adcf0" font-size="13" font-weight="700" text-anchor="end">509</text>
+      <text x="400" y="0" fill="#6adcf0" font-size="13" font-weight="700" text-anchor="end">599</text>
     </g>
     <g transform="translate(30, 156)">
       <circle cx="3" cy="-4" r="2.5" fill="#35d0e8"/>
       <text x="16" y="0" fill="#e8e8e6" font-size="13">Pull requests</text>
-      <text x="400" y="0" fill="#6adcf0" font-size="13" font-weight="700" text-anchor="end">8</text>
+      <text x="400" y="0" fill="#6adcf0" font-size="13" font-weight="700" text-anchor="end">6</text>
     </g>
     <g transform="translate(30, 175.5)">
       <circle cx="3" cy="-4" r="2.5" fill="#35d0e8"/>

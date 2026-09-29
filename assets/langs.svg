@@ -5,37 +5,32 @@
   <g class="t">
     <text x="30" y="42" fill="#35d0e8" font-size="19" font-weight="700">Mest brukte språk</text>
     <clipPath id="round"><rect x="30" y="70" width="400" height="12" rx="6"/></clipPath>
-    <g clip-path="url(#round)"><rect x="30.00" y="70" width="255.88" height="12" fill="#3178c6"><title>TypeScript 64.0%</title></rect><rect x="285.88" y="70" width="42.50" height="12" fill="#f1e05a"><title>JavaScript 10.6%</title></rect><rect x="328.38" y="70" width="35.22" height="12" fill="#4F5D95"><title>PHP 8.8%</title></rect><rect x="363.60" y="70" width="27.08" height="12" fill="#f7523f"><title>Blade 6.8%</title></rect><rect x="390.68" y="70" width="20.70" height="12" fill="#663399"><title>CSS 5.2%</title></rect><rect x="411.38" y="70" width="8.55" height="12" fill="#e34c26"><title>HTML 2.1%</title></rect></g>
+    <g clip-path="url(#round)"><rect x="30.00" y="70" width="240.43" height="12" fill="#3178c6"><title>TypeScript 60.1%</title></rect><rect x="270.43" y="70" width="72.83" height="12" fill="#f1e05a"><title>JavaScript 18.2%</title></rect><rect x="343.26" y="70" width="53.95" height="12" fill="#663399"><title>CSS 13.5%</title></rect><rect x="397.21" y="70" width="25.30" height="12" fill="#e34c26"><title>HTML 6.3%</title></rect><rect x="422.51" y="70" width="7.49" height="12" fill="#41b883"><title>Vue 1.9%</title></rect></g>
     
       <g transform="translate(30, 106)">
         <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
         <text x="16" y="0" fill="#e8e8e6" font-size="12.5">TypeScript</text>
-        <text x="176" y="0" fill="#9a9aa2" font-size="12.5" text-anchor="end">64.0%</text>
+        <text x="176" y="0" fill="#9a9aa2" font-size="12.5" text-anchor="end">60.1%</text>
       </g>
       <g transform="translate(230, 106)">
         <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
         <text x="16" y="0" fill="#e8e8e6" font-size="12.5">JavaScript</text>
-        <text x="176" y="0" fill="#9a9aa2" font-size="12.5" text-anchor="end">10.6%</text>
+        <text x="176" y="0" fill="#9a9aa2" font-size="12.5" text-anchor="end">18.2%</text>
       </g>
       <g transform="translate(30, 130)">
-        <circle cx="5" cy="-4" r="5" fill="#4F5D95"/>
-        <text x="16" y="0" fill="#e8e8e6" font-size="12.5">PHP</text>
-        <text x="176" y="0" fill="#9a9aa2" font-size="12.5" text-anchor="end">8.8%</text>
-      </g>
-      <g transform="translate(230, 130)">
-        <circle cx="5" cy="-4" r="5" fill="#f7523f"/>
-        <text x="16" y="0" fill="#e8e8e6" font-size="12.5">Blade</text>
-        <text x="176" y="0" fill="#9a9aa2" font-size="12.5" text-anchor="end">6.8%</text>
-      </g>
-      <g transform="translate(30, 154)">
         <circle cx="5" cy="-4" r="5" fill="#663399"/>
         <text x="16" y="0" fill="#e8e8e6" font-size="12.5">CSS</text>
-        <text x="176" y="0" fill="#9a9aa2" font-size="12.5" text-anchor="end">5.2%</text>
+        <text x="176" y="0" fill="#9a9aa2" font-size="12.5" text-anchor="end">13.5%</text>
       </g>
-      <g transform="translate(230, 154)">
+      <g transform="translate(230, 130)">
         <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
         <text x="16" y="0" fill="#e8e8e6" font-size="12.5">HTML</text>
-        <text x="176" y="0" fill="#9a9aa2" font-size="12.5" text-anchor="end">2.1%</text>
+        <text x="176" y="0" fill="#9a9aa2" font-size="12.5" text-anchor="end">6.3%</text>
+      </g>
+      <g transform="translate(30, 154)">
+        <circle cx="5" cy="-4" r="5" fill="#41b883"/>
+        <text x="16" y="0" fill="#e8e8e6" font-size="12.5">Vue</text>
+        <text x="176" y="0" fill="#9a9aa2" font-size="12.5" text-anchor="end">1.9%</text>
       </g>
     
   <g transform="translate(426,36)" fill="#35d0e8" opacity="0.9">
