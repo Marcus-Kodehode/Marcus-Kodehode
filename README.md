@@ -53,8 +53,8 @@ Casene med problem, løsning og resultat ligger på [borresendigital.no/arbeid](
 
 <table>
 <tr>
-<td width="55%"><a href="https://www.borresendigital.no/nb/arbeid/aurnor"><img src="assets/arbeid/aurnor.jpg" alt="Aurnor: AI-analyse av en aksje med sammendrag, positive og negative sider og risikoer" width="100%"/></a></td>
-<td width="45%" valign="middle"><b><a href="https://www.borresendigital.no/nb/arbeid/aurnor">Aurnor</a></b> · <i>under arbeid</i><br/><br/>Porteføljeverktøy for private investorer. AI-agenter analyserer aksjer fra ti ulike perspektiver, med abonnement og sikkerhet bygget inn fra start.<br/><br/><sub>Laravel · PHP · PostgreSQL · AI-agenter</sub></td>
+<td width="55%"><a href="https://www.borresendigital.no/nb/arbeid/kursvarde"><img src="assets/arbeid/kursvarde.jpg" alt="Kursvarde: forsiden til markedsterminalen på desktop og mobil, med Oslo Børs, makro og portefølje på én skjerm" width="100%"/></a></td>
+<td width="45%" valign="middle"><b><a href="https://www.borresendigital.no/nb/arbeid/kursvarde">Kursvarde</a></b> · <i>under arbeid</i><br/><br/>Markedsterminal for private aksjesparere, bygget som egen tjeneste: Oslo Børs, makro fra Norges Bank og SSB, portefølje og AI-analyser med kilder. Informasjon, ikke rådgivning. Live på <a href="https://kursvarde.no">kursvarde.no</a>.<br/><br/><sub>Next.js · Cloudflare Workers · Neon · Drizzle · Clerk · Claude API</sub></td>
 </tr>
 <tr>
 <td width="55%"><a href="https://www.borresendigital.no/nb/arbeid/make-up-by-michael"><img src="assets/arbeid/make-up-by-michael.jpg" alt="Make Up by Michael: forsiden på desktop og kontaktsiden på mobil" width="100%"/></a></td>
