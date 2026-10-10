@@ -24,7 +24,7 @@
     <g transform="translate(30, 136.5)">
       <circle cx="3" cy="-4" r="2.5" fill="#35d0e8"/>
       <text x="16" y="0" fill="#e8e8e6" font-size="13">Commits (siste år)</text>
-      <text x="400" y="0" fill="#6adcf0" font-size="13" font-weight="700" text-anchor="end">961</text>
+      <text x="400" y="0" fill="#6adcf0" font-size="13" font-weight="700" text-anchor="end">1,028</text>
     </g>
     <g transform="translate(30, 156)">
       <circle cx="3" cy="-4" r="2.5" fill="#35d0e8"/>
@@ -34,7 +34,7 @@
     <g transform="translate(30, 175.5)">
       <circle cx="3" cy="-4" r="2.5" fill="#35d0e8"/>
       <text x="16" y="0" fill="#e8e8e6" font-size="13">Bidrag (siste år)</text>
-      <text x="400" y="0" fill="#6adcf0" font-size="13" font-weight="700" text-anchor="end">972</text>
+      <text x="400" y="0" fill="#6adcf0" font-size="13" font-weight="700" text-anchor="end">1,039</text>
     </g>
     
   <g transform="translate(426,36)" fill="#6adcf0" opacity="0.9">
