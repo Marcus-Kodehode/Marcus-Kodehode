@@ -38,12 +38,12 @@ const marcus = {
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,angular,vue,tailwind,html,css&theme=dark" alt="Next.js, React, TypeScript, JavaScript, Angular, Vue, Tailwind CSS, HTML, CSS"/>
 
 **Backend og data**<br/>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,prisma,postgres,mysql,mongodb,sqlite&theme=dark" alt="Laravel, PHP, Node.js, Prisma, PostgreSQL, MySQL, MongoDB, SQLite"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,fastapi,prisma,postgres,mysql,mongodb,sqlite,supabase&theme=dark" alt="Laravel, PHP, Node.js, Python, FastAPI, Prisma, PostgreSQL, MySQL, MongoDB, SQLite, Supabase"/>
 
 **Plattform og verktøy**<br/>
-<img src="https://skillicons.dev/icons?i=cloudflare,vercel,git,github,githubactions,vite,vscode,npm&theme=dark" alt="Cloudflare, Vercel, Git, GitHub, GitHub Actions, Vite, VS Code, npm"/>
+<img src="https://skillicons.dev/icons?i=cloudflare,vercel,wordpress,git,github,githubactions,vite,vscode,npm&theme=dark" alt="Cloudflare, Vercel, WordPress, Git, GitHub, GitHub Actions, Vite, VS Code, npm"/>
 
-<sub>Også: Cloudflare Workers, D1 og R2 · Drizzle · OpenNext · next-intl · Velite · Zod · Playwright · Lighthouse CI · Resend · Turnstile · Neon · MCP</sub>
+<sub>Også: Cloudflare Workers, D1 og R2 · Drizzle · OpenNext · vinext · next-intl · Velite · Zod · Clerk · Playwright · Lighthouse CI · Resend · Turnstile · Neon · Claude API · MCP</sub>
 
 </div>
 
@@ -57,18 +57,23 @@ Casene med problem, løsning og resultat ligger på [borresendigital.no/arbeid](
 <td width="45%" valign="middle"><b><a href="https://www.borresendigital.no/nb/arbeid/kursvarde">Kursvarde</a></b> · <i>under arbeid</i><br/><br/>Markedsterminal for private aksjesparere, bygget som egen tjeneste: Oslo Børs, makro fra Norges Bank og SSB, portefølje og AI-analyser med kilder. Informasjon, ikke rådgivning. Live på <a href="https://kursvarde.no">kursvarde.no</a>.<br/><br/><sub>Next.js · Cloudflare Workers · Neon · Drizzle · Clerk · Claude API</sub></td>
 </tr>
 <tr>
-<td width="55%"><a href="https://www.borresendigital.no/nb/arbeid/make-up-by-michael"><img src="assets/arbeid/make-up-by-michael.jpg" alt="Make Up by Michael: forsiden på desktop og kontaktsiden på mobil" width="100%"/></a></td>
-<td width="45%" valign="middle"><b><a href="https://www.borresendigital.no/nb/arbeid/make-up-by-michael">Make Up by Michael</a></b><br/><br/>Portefølje- og forespørselsside for en makeupartist i Drammen, bygget for førsteinntrykk og synlighet i norske søk.<br/><br/><sub>Next.js · TypeScript · Tailwind · SEO</sub></td>
+<td width="55%"><a href="https://www.borresendigital.no/nb/arbeid/dykkerklubb"><img src="assets/arbeid/drammen-sportsdykkere.jpg" alt="Drammen Sportsdykkere Klubb: forsiden med «En klubb av og for dykkere», neste i kalenderen og siste nytt, på desktop og mobil" width="100%"/></a></td>
+<td width="45%" valign="middle"><b><a href="https://www.borresendigital.no/nb/arbeid/dykkerklubb">Drammen Sportsdykkere Klubb</a></b> · <i>første betalte oppdrag</i><br/><br/>Selvbetjent klubbside med nyheter, kalender, galleri og rollestyrt admin, drevet av frivillige uten utvikler. Live på <a href="https://www.drammensportsdykkere.no">drammensportsdykkere.no</a>.<br/><br/><sub>Next.js · TypeScript · Tailwind · Prisma · PostgreSQL</sub></td>
 </tr>
 <tr>
-<td width="55%"><a href="https://www.borresendigital.no/nb/arbeid/match-a-gift"><img src="assets/arbeid/match-a-gift.jpg" alt="Match-A-Gift: tolv anledninger som knapper over et nattlandskap, på desktop og mobil" width="100%"/></a></td>
-<td width="45%" valign="middle"><b><a href="https://www.borresendigital.no/nb/arbeid/match-a-gift">Match-A-Gift</a></b> · <a href="https://github.com/Marcus-Kodehode/match-a-gift">åpen kildekode</a><br/><br/>Gaveveiviser som gir forslag etter tre raske valg: anledning, kjønn og alder.<br/><br/><sub>Angular 20 · TypeScript · Tailwind · forhåndsrendering</sub></td>
+<td width="55%"><a href="https://www.borresendigital.no/nb/arbeid/sofagjest"><img src="assets/arbeid/sofagjest.jpg" alt="Sofagjest: «Kveldens gjest #27» med søkefeltet «Hvem sitter i sofaen?» og fargeforklaringen, på desktop og mobil" width="100%"/></a></td>
+<td width="45%" valign="middle"><b><a href="https://www.borresendigital.no/nb/arbeid/sofagjest">Sofagjest</a></b> · <i>under arbeid</i><br/><br/>Daglig gjettespill der alle gjetter den samme TV-karakteren, med fargehint per kategori. 718 karakterer fra 41 serier, uten innlogging, reklame eller informasjonskapsler. Live på <a href="https://sofagjest.no">sofagjest.no</a>.<br/><br/><sub>Next.js · Cloudflare Workers · D1 · Drizzle · Tailwind</sub></td>
+</tr>
+<tr>
+<td width="55%"><a href="https://www.borresendigital.no/nb/arbeid/make-up-by-michael"><img src="assets/arbeid/make-up-by-michael.jpg" alt="Make Up by Michael: forsiden på desktop og kontaktsiden på mobil" width="100%"/></a></td>
+<td width="45%" valign="middle"><b><a href="https://www.borresendigital.no/nb/arbeid/make-up-by-michael">Make Up by Michael</a></b><br/><br/>Portefølje- og forespørselsside for en makeupartist i Drammen, bygget for førsteinntrykk og synlighet i norske søk.<br/><br/><sub>Next.js · TypeScript · Tailwind · SEO</sub></td>
 </tr>
 </table>
 
 **Mer arbeid**
 
-- [**Klubbside for en dykkerklubb**](https://www.borresendigital.no/nb/arbeid/dykkerklubb): første betalte oppdrag. Selvbetjent klubbside med nyheter, kalender, galleri og rollestyrt admin, drevet av frivillige.
+- [**Match-A-Gift**](https://www.borresendigital.no/nb/arbeid/match-a-gift): gaveveiviser som gir forslag etter tre raske valg, bygget i Angular med forhåndsrendering. [Åpen kildekode](https://github.com/Marcus-Kodehode/match-a-gift).
+- [**Renytt**](https://www.borresendigital.no/nb/arbeid/renytt): sporingsfri nyhetsoversikt med overskrifter fra tolv norske mediehus og korte sammendrag, uten annonsepiksler eller cookie-vegg.
 - [**Losen**](https://www.borresendigital.no/nb/arbeid/losen): prosjektrom for små utviklingsleveranser, med oppgaver, beslutninger, risikoer og neste steg på ett sted.
 - [**Jobbsøkerassistenten**](https://www.borresendigital.no/nb/arbeid/jobbsokerassistenten): lokal-først app for frister og oppfølging i en jobbsøking, med egen MCP-server for Claude. Under arbeid.
 - [**Jobsearch Coach**](https://www.borresendigital.no/nb/arbeid/jobsearch-coach): Claude-skill som coacher deg gjennom en hel søknadsrunde, fra research til prøveintervju.
