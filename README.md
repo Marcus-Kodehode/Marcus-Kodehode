@@ -41,9 +41,10 @@ const marcus = {
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,fastapi,prisma,postgres,mysql,mongodb,sqlite,supabase&theme=dark" alt="Laravel, PHP, Node.js, Python, FastAPI, Prisma, PostgreSQL, MySQL, MongoDB, SQLite, Supabase"/>
 
 **Plattform og verktøy**<br/>
-<img src="https://skillicons.dev/icons?i=cloudflare,vercel,wordpress,git,github,githubactions,vite,vscode,npm&theme=dark" alt="Cloudflare, Vercel, WordPress, Git, GitHub, GitHub Actions, Vite, VS Code, npm"/>
+<img src="https://skillicons.dev/icons?i=cloudflare,vercel,wordpress,docker,git,github,githubactions,vite,vitest,vscode,npm&theme=dark" alt="Cloudflare, Vercel, WordPress, Docker, Git, GitHub, GitHub Actions, Vite, Vitest, VS Code, npm"/>
 
-<sub>Også: Cloudflare Workers, D1 og R2 · Drizzle · OpenNext · vinext · next-intl · Velite · Zod · Clerk · Playwright · Lighthouse CI · Resend · Turnstile · Neon · Claude API · MCP</sub>
+<sub>Også: Cloudflare Workers, D1 og R2 · Drizzle · OpenNext · vinext · next-intl · Velite · Zod · Clerk · Playwright · Lighthouse CI · Resend · Turnstile · Neon · pdf-lib · Claude API · MCP</sub><br/>
+<sub>Sikkerhet og drift: CSP og sikkerhetsheadere · SPF, DKIM og DMARC · WordPress-herding · overvåking og varsling · Cisco Introduction to Cybersecurity (2026)</sub>
 
 </div>
 
@@ -72,6 +73,7 @@ Casene med problem, løsning og resultat ligger på [borresendigital.no/arbeid](
 
 **Mer arbeid**
 
+- [**ColorCraft**](https://www.borresendigital.no/nb/arbeid/colorcraft): gratis fargeverktøy der paletter testes på ekte komponenter, med kontrastsjekk etter WCAG 2.2, palett fra profilmanual eller logo, fargekort til kunden og eksport til CSS, Tailwind 4 og design tokens. Live på [farger.borresendigital.no](https://farger.borresendigital.no), [åpen kildekode](https://github.com/Borresen-Digital/colorcraft).
 - [**Match-A-Gift**](https://www.borresendigital.no/nb/arbeid/match-a-gift): gaveveiviser som gir forslag etter tre raske valg, bygget i Angular med forhåndsrendering. [Åpen kildekode](https://github.com/Marcus-Kodehode/match-a-gift).
 - [**Renytt**](https://www.borresendigital.no/nb/arbeid/renytt): sporingsfri nyhetsoversikt med overskrifter fra tolv norske mediehus og korte sammendrag, uten annonsepiksler eller cookie-vegg.
 - [**Losen**](https://www.borresendigital.no/nb/arbeid/losen): prosjektrom for små utviklingsleveranser, med oppgaver, beslutninger, risikoer og neste steg på ett sted.
